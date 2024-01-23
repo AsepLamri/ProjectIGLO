@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,Chrome 120.0.0.0,,,23-01-2024 16:34:28,23-01-2024 16:34:39,10.166s,FAILED
+,,,,,,,
+Test Cases/Cura Healthcare Center/Login,Chrome 120.0.0.0,,,23-01-2024 16:34:36,23-01-2024 16:34:39,2.230s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,23-01-2024 16:34:36,23-01-2024 16:34:38,1.425s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 120.0.0.0,,,23-01-2024 16:34:38,23-01-2024 16:34:39,0.779s,FAILED

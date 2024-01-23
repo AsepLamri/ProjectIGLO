@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,,,,23-01-2024 16:58:33,23-01-2024 16:58:36,3.114s,FAILED
+,,,,,,,
+Test Cases/Cura Healthcare Center/AppointmentConfirmation,,,,23-01-2024 16:58:36,23-01-2024 16:58:36,0.190s,FAILED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",,,,23-01-2024 16:58:36,23-01-2024 16:58:36,0.145s,FAILED

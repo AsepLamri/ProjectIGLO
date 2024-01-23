@@ -434,3 +434,11 @@
         _sessionCache: [Object] } },
   code: 'ETIMEDOUT',
   status: null }
+[2024-01-23T10:35:41.679] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-23T10:35:41.732] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-23T10:36:34.331] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-23T10:36:34.347] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-23T10:37:35.664] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-23T10:37:35.677] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-23T10:38:34.347] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-23T10:38:34.349] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.

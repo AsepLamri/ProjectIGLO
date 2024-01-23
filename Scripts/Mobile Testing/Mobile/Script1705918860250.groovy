@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Mobile.startApplication('C:\\Users\\0767\\Downloads\\kaf-debug.apk', true)
+
+Mobile.tap(findTestObject('Mobile/android.widget.EditTextUsername'), 0)
+
+Mobile.setText(findTestObject('Mobile/android.widget.EditTextUsername'), 'receptionist@kaf.co.id', 0)
+
+Mobile.hideKeyboard()
+
+Mobile.tap(findTestObject('Mobile/android.widget.EditTextPassword'), 0)
+
+Mobile.setText(findTestObject('Mobile/android.widget.EditTextPassword'), 'R3cept!#888', 0)
+
+Mobile.hideKeyboard()
+
+Mobile.tap(findTestObject('Mobile/android.widget.ButtonIconMata'), 0)
+
+Mobile.tap(findTestObject('Mobile/android.widget.ButtonIconMata'), 0)
+
+Mobile.tap(findTestObject('Mobile/android.widget.ButtonLogin'), 0)
+
+Mobile.takeScreenshotAsCheckpoint('Test')
+

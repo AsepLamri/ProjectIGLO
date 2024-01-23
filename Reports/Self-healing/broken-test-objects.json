@@ -69,6 +69,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@name\u003d\u0027username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png"
     }
   ]
 }

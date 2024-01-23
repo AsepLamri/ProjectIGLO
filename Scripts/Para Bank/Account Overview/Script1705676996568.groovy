@@ -21,3 +21,5 @@ WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Accounts 
 
 WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00'))
 
+WebUI.takeScreenshotAsCheckpoint('Cek')
+

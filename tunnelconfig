@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = '4d44105a-6f8b-4de5-98c8-ce336791b251'
+group = '671761bb-4d06-49ac-a6a0-625cdf5fa3c8'
+inactive_tunnel_timeout = 0
+organization_id = 1378380
+private_tunnel = false
+proxy_host = ''
+proxy_password = ''
+proxy_port = ''
+proxy_username = ''
+retry = 3
+server = 'https://tunnel-manager.katalon.com'
+team_id = 1378380
+tenant = 'TestOps'
+username = 'asep.lamri@indocyber.id'

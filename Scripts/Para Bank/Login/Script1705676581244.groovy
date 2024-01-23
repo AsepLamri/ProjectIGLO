@@ -26,5 +26,9 @@ WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome
 WebUI.setEncryptedText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password'), 
     'amhbjqpz+W+cUhleMTuzlg==')
 
+WebUI.takeScreenshotAsCheckpoint('Cek')
+
 WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button'))
+
+WebUI.takeScreenshotAsCheckpoint('Cek')
 

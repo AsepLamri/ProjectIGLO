@@ -21,46 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://parabank.parasoft.com/parabank/index.htm')
 
-WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Error/a_Register'))
+WebUI.takeScreenshotAsCheckpoint('Cek')
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.firstName'), 
-    'asep')
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/li_Solutions'))
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.lastName'), 
-    'lamri')
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/a_About Us'))
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.address.street'), 
-    'pancoran')
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  About Us/a_Services'))
 
-WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.address.street'))
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Services/a_Products'))
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.address.city'), 
-    'jakarta')
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Services/a_Locations'))
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.address.state'), 
-    'jakarta selatan')
+WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Services/a_Admin Page'))
 
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.address.zipCode'), 
-    '0001')
-
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.phoneNumber'), 
-    '08123456789')
-
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.ssn'), 
-    'QWERTY12')
-
-WebUI.setText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.username'), 
-    'aseplamri')
-
-WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.username'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_customer.password'), 
-    'amhbjqpz+W+cUhleMTuzlg==')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_repeatedPassword'), 
-    'amhbjqpz+W+cUhleMTuzlg==')
-
-WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Register for Free Online Acc_dbf84b/input_button'))
-
-WebUI.closeBrowser()
+WebUI.takeScreenshotAsCheckpoint('Cek')
 

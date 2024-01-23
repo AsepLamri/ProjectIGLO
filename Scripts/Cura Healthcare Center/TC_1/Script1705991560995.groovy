@@ -19,5 +19,3 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Cura Healthcare Center/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeAreaScreenshotAsCheckpoint('', null)
-

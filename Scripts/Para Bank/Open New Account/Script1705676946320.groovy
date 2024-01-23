@@ -26,3 +26,5 @@ WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Open Acco
 
 WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Open Account/a_32547'))
 
+WebUI.takeScreenshotAsCheckpoint('Test')
+

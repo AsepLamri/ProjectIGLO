@@ -23,3 +23,5 @@ WebUI.navigateToUrl('https://parabank.parasoft.com/parabank/index.htm')
 
 WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/a_Register'))
 
+WebUI.takeScreenshotAsCheckpoint('Test')
+

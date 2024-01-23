@@ -29,3 +29,5 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Para Bank/Page_ParaB
 
 WebUI.click(findTestObject('Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_button'))
 
+WebUI.takeScreenshotAsCheckpoint('Cek')
+

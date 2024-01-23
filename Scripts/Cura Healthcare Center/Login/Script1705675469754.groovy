@@ -27,21 +27,10 @@ WebUI.setText(findTestObject('Object Repository/Web Testing/Page_CURA Healthcare
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web Testing/Page_CURA Healthcare Service/input_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
+WebUI.takeScreenshotAsCheckpoint('cek')
+
 WebUI.click(findTestObject('Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment'), 
     'Make Appointment')
-/*
- *  This code opens a web browser, navigates to a specific URL, clicks on a link, sets text in a username field,
- *  sets encrypted text in a password field, clicks on a button, and verifies the text of an element.
- *
- *  1. Open a web browser.
- *  2. Navigate to the URL 'https://katalon-demo-cura.herokuapp.com/'.
- *  3. Click on the 'Make Appointment' link.
- *  4. Set the text 'John Doe' in the username field.
- *  5. Set the encrypted text 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM' in the password field.
- *  6. Click on the 'Login' button.
- *  7. Verify that the text of the 'Make Appointment' element is 'Make Appointment'.
- *
- */
 

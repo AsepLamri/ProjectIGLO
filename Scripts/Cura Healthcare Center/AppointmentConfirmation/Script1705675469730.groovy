@@ -23,6 +23,8 @@ import org.openqa.selenium.Keys as Keys
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Hongkong CURA Healthcare Center', true)
 
+WebUI.takeScreenshotAsCheckpoint('Cek')
+
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_hospital_readmission'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_programs'))
@@ -34,6 +36,8 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_20
 WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_comment'), 'Testing')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+
+WebUI.takeScreenshotAsCheckpoint('Cek')
 
 WebUI.closeBrowser()
 

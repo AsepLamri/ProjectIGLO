@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Para Bank,Android - Chrome 120.0.0.0,,,23-01-2024 10:45:37,23-01-2024 11:00:08,14m - 30.505s,FAILED
+,,,,,,,
+Test Cases/Para Bank/Login,Android - Chrome 120.0.0.0,,,23-01-2024 10:45:38,23-01-2024 10:47:43,2m - 5.380s,PASSED
+"openBrowser("""")",Android - Chrome 120.0.0.0,,,23-01-2024 10:45:38,23-01-2024 10:46:21,43.053s,PASSED
+"navigateToUrl(""https://parabank.parasoft.com/parabank/index.htm"")",Android - Chrome 120.0.0.0,,,23-01-2024 10:46:21,23-01-2024 10:46:23,1.890s,PASSED
+"setText(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username""), ""asep"")",Android - Chrome 120.0.0.0,,,23-01-2024 10:46:23,23-01-2024 10:47:32,1m - 9.551s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password""), ""amhbjqpz+W+cUhleMTuzlg=="")",Android - Chrome 120.0.0.0,,,23-01-2024 10:47:32,23-01-2024 10:47:38,5.965s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button""))",Android - Chrome 120.0.0.0,,,23-01-2024 10:47:38,23-01-2024 10:47:43,4.604s,PASSED
+,,,,,,,
+Test Cases/Para Bank/Account Overview,Android - Chrome 120.0.0.0,,,23-01-2024 10:51:49,23-01-2024 10:53:08,1m - 18.955s,FAILED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview""))",Android - Chrome 120.0.0.0,,,23-01-2024 10:51:49,23-01-2024 10:53:08,1m - 18.937s,FAILED
+,,,,,,,
+Test Cases/Para Bank/Open New Account,Android - Chrome 120.0.0.0,,,23-01-2024 10:56:03,23-01-2024 10:56:52,49.353s,FAILED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account""))",Android - Chrome 120.0.0.0,,,23-01-2024 10:56:03,23-01-2024 10:56:52,49.339s,FAILED
+,,,,,,,
+Test Cases/Para Bank/Transfer Funds,Android - Chrome 120.0.0.0,,,23-01-2024 10:59:16,23-01-2024 11:00:08,51.738s,FAILED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds""))",Android - Chrome 120.0.0.0,,,23-01-2024 10:59:16,23-01-2024 11:00:08,51.717s,FAILED

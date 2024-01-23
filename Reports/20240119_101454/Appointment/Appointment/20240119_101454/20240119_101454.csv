@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,Android - Chrome 120.0.0.0,,,19-01-2024 10:15:05,19-01-2024 10:27:34,12m - 29.044s,FAILED
+,,,,,,,
+Test Cases/Test Case Web Testing/Login,Android - Chrome 120.0.0.0,,,19-01-2024 10:15:05,19-01-2024 10:16:42,1m - 37.415s,PASSED
+"openBrowser("""")",Android - Chrome 120.0.0.0,,,19-01-2024 10:15:05,19-01-2024 10:16:00,54.384s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:00,19-01-2024 10:16:03,3.162s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:03,19-01-2024 10:16:08,5.276s,PASSED
+"setText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:08,19-01-2024 10:16:16,8.402s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:16,19-01-2024 10:16:22,6.055s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:22,19-01-2024 10:16:27,4.084s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:27,19-01-2024 10:16:31,4.589s,PASSED
+"rightClick(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:31,19-01-2024 10:16:37,5.672s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment""), ""Make Appointment"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:16:37,19-01-2024 10:16:41,4.028s,PASSED
+closeBrowser(),Android - Chrome 120.0.0.0,,,19-01-2024 10:16:41,19-01-2024 10:16:42,1.365s,PASSED
+,,,,,,,
+Test Cases/Test Case Web Testing/AppointmentConfirmation,Android - Chrome 120.0.0.0,,,19-01-2024 10:24:58,19-01-2024 10:27:34,2m - 35.357s,FAILED
+"openBrowser("""")",Android - Chrome 120.0.0.0,,,19-01-2024 10:24:58,19-01-2024 10:25:47,48.986s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:25:47,19-01-2024 10:25:50,2.614s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:25:50,19-01-2024 10:25:54,3.936s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:25:54,19-01-2024 10:26:03,8.895s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:03,19-01-2024 10:26:09,6.021s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:09,19-01-2024 10:26:13,4.504s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:13,19-01-2024 10:26:35,21.936s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_hospital_readmission""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:35,19-01-2024 10:26:39,3.758s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_programs""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:39,19-01-2024 10:26:44,4.686s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:44,19-01-2024 10:26:47,3.606s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_20""))",Android - Chrome 120.0.0.0,,,19-01-2024 10:26:47,19-01-2024 10:27:34,46.378s,FAILED

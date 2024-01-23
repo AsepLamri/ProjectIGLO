@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ParameterizedObject</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca3c92c2-4414-430a-9e6f-5c61e448ca75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a51f3319-e665-4a9d-952c-efae38606daa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>a51f3319-e665-4a9d-952c-efae38606daa</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

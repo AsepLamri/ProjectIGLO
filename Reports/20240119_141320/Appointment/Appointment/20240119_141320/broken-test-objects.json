@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/td_20",
+      "brokenLocator": "/html/body/div[2]/div[1]/table/tbody/tr[3]/td [contains(text(),\u002720\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//tr[3]/td[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240119_141320/Appointment/Appointment/20240119_141320/Object Repository/Page_CURA Healthcare Service/td_20_position.png"
+    }
+  ]
+}

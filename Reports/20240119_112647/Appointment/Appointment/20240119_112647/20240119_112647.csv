@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,Android - Chrome 120.0.0.0,,,19-01-2024 11:26:56,19-01-2024 11:38:43,11m - 47.655s,FAILED
+,,,,,,,
+Test Cases/Test Case Web Testing/Login,Android - Chrome 120.0.0.0,,,19-01-2024 11:26:56,19-01-2024 11:28:19,1m - 22.834s,PASSED
+"openBrowser("""")",Android - Chrome 120.0.0.0,,,19-01-2024 11:26:56,19-01-2024 11:27:48,52.117s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Android - Chrome 120.0.0.0,,,19-01-2024 11:27:48,19-01-2024 11:27:51,2.514s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:27:51,19-01-2024 11:27:55,4.523s,PASSED
+"setText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Android - Chrome 120.0.0.0,,,19-01-2024 11:27:55,19-01-2024 11:28:05,9.231s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Android - Chrome 120.0.0.0,,,19-01-2024 11:28:05,19-01-2024 11:28:10,5.612s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:28:10,19-01-2024 11:28:15,4.680s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment""), ""Make Appointment"")",Android - Chrome 120.0.0.0,,,19-01-2024 11:28:15,19-01-2024 11:28:19,3.798s,PASSED
+,,,,,,,
+Test Cases/Test Case Web Testing/AppointmentConfirmation,Android - Chrome 120.0.0.0,,,19-01-2024 11:35:37,19-01-2024 11:38:43,3m - 6.635s,FAILED
+"callTestCase(findTestCase(""Test Case Web Testing/Login""), [:], STOP_ON_FAILURE)",Android - Chrome 120.0.0.0,,,19-01-2024 11:35:37,19-01-2024 11:37:32,1m - 55.180s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Android - Chrome 120.0.0.0,,,19-01-2024 11:37:32,19-01-2024 11:37:49,17.229s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_hospital_readmission""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:37:49,19-01-2024 11:37:53,3.684s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_programs""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:37:53,19-01-2024 11:37:56,3.696s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/span_glyphicon glyphicon-calendar""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:37:56,19-01-2024 11:38:00,3.331s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_20""))",Android - Chrome 120.0.0.0,,,19-01-2024 11:38:00,19-01-2024 11:38:43,43.492s,FAILED

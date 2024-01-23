@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00",
+      "brokenLocator": "//table[@id\u003d\u0027accountTable\u0027]/tbody/tr[3]/td[2]/b",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//td[2]/b",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240120_003701/Test Suites/Para Bank/20240120_003701/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00_position.png"
+    }
+  ]
+}

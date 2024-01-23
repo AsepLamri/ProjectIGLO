@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Para Bank,Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:08,20-01-2024 00:47:34,3m - 26.162s,PASSED
+,,,,,,,
+Test Cases/Para Bank/Login,Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:08,20-01-2024 00:45:00,51.880s,PASSED
+"openBrowser("""")",Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:09,20-01-2024 00:44:37,28.466s,PASSED
+"navigateToUrl(""https://parabank.parasoft.com/parabank/index.htm"")",Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:37,20-01-2024 00:44:39,2.256s,PASSED
+"setText(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username""), ""asep"")",Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:39,20-01-2024 00:44:48,8.439s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password""), ""amhbjqpz+W+cUhleMTuzlg=="")",Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:48,20-01-2024 00:44:54,5.814s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:44:54,20-01-2024 00:45:00,6.341s,PASSED
+,,,,,,,
+Test Cases/Para Bank/Open New Account,Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:00,20-01-2024 00:45:38,38.421s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:00,20-01-2024 00:45:05,4.725s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Open Account/select_CHECKING                  SAVINGS""), ""1"", true)",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:05,20-01-2024 00:45:30,24.970s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Open Account/input_button""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:30,20-01-2024 00:45:33,3.594s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Open Account/a_32547""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:33,20-01-2024 00:45:38,4.962s,PASSED
+,,,,,,,
+Test Cases/Para Bank/Account Overview,Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:38,20-01-2024 00:46:20,41.561s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:39,20-01-2024 00:45:43,3.974s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:45:43,20-01-2024 00:46:20,37.496s,PASSED
+,,,,,,,
+Test Cases/Para Bank/Transfer Funds,Windows - Chrome 119.0.0.0,,,20-01-2024 00:46:20,20-01-2024 00:47:34,1m - 13.823s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:46:20,20-01-2024 00:46:24,3.770s,PASSED
+"setText(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input""), ""110"")",Windows - Chrome 119.0.0.0,,,20-01-2024 00:46:24,20-01-2024 00:46:31,7.414s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547""), ""32436"", true)",Windows - Chrome 119.0.0.0,,,20-01-2024 00:46:31,20-01-2024 00:46:58,26.573s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547""), ""32547"", true)",Windows - Chrome 119.0.0.0,,,20-01-2024 00:46:58,20-01-2024 00:47:30,32.307s,PASSED
+"click(findTestObject(""Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_button""))",Windows - Chrome 119.0.0.0,,,20-01-2024 00:47:30,20-01-2024 00:47:34,3.608s,PASSED

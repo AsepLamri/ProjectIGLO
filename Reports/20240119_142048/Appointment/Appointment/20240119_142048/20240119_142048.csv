@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,Android - Chrome 120.0.0.0,,,19-01-2024 14:21:01,19-01-2024 14:33:07,12m - 6.608s,FAILED
+,,,,,,,
+Test Cases/Test Case Web Testing/Login,Android - Chrome 120.0.0.0,,,19-01-2024 14:27:34,19-01-2024 14:29:40,2m - 5.812s,FAILED
+"openBrowser("""")",Android - Chrome 120.0.0.0,,,19-01-2024 14:27:34,19-01-2024 14:28:26,51.321s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:26,19-01-2024 14:28:31,5.561s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment""))",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:31,19-01-2024 14:28:36,5.219s,PASSED
+"setText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_username""), ""John Doe"")",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:36,19-01-2024 14:28:47,10.898s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/input_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:47,19-01-2024 14:28:54,6.232s,PASSED
+"click(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login""))",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:54,19-01-2024 14:28:58,4.148s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment""), ""Make Appointment"")",Android - Chrome 120.0.0.0,,,19-01-2024 14:28:58,19-01-2024 14:29:40,42.403s,FAILED
+,,,,,,,
+Test Cases/Test Case Web Testing/AppointmentConfirmation,Android - Chrome 120.0.0.0,,,19-01-2024 14:32:14,19-01-2024 14:33:07,52.885s,FAILED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Android - Chrome 120.0.0.0,,,19-01-2024 14:32:14,19-01-2024 14:33:07,52.863s,FAILED

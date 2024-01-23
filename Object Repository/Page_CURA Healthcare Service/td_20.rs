@@ -6,12 +6,11 @@
    <elementGuidId>9da37965-4ca2-45bf-8810-aae49a89e527</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//tr[3]/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>91857362-ce82-4e47-b88c-2c9c08dd856e</webElementGuid>
+      <webElementGuid>bcc34aa1-c634-42db-bb11-35f738e87936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>day</value>
-      <webElementGuid>0d3c3603-a976-498a-9a7d-c81e2c9ef3a4</webElementGuid>
+      <webElementGuid>c9d6e720-fe94-4e2f-90fe-4911c4b0650a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>f4c97401-b7c6-4a43-8239-34af4e71354b</webElementGuid>
+      <webElementGuid>ac22dc16-3c75-47be-b65b-c9aaf3058914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[3]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>4108db73-ef8b-4542-b997-baa080ad6d3e</webElementGuid>
+      <webElementGuid>29d9cacc-3903-4f2c-861d-78e236281118</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[7]</value>
-      <webElementGuid>923758cd-e213-401f-b8d6-fcf2895a4ddd</webElementGuid>
+      <webElementGuid>52c67bb1-2464-4dc4-b666-cdc4f1b555a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +61,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '20' or . = '20')]</value>
-      <webElementGuid>cd77421d-3e49-4e51-ac9e-cd24b66bd70d</webElementGuid>
+      <webElementGuid>f2e49164-2a26-44ec-8adc-743810866fcc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

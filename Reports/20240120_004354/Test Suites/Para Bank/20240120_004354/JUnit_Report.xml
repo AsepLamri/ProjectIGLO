@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Para Bank" time="206.162" tests="4" failures="0" errors="0">
+   <testsuite name="Para Bank" tests="4" failures="0" errors="0" time="206.162" skipped="0" timestamp="20-01-2024T00:44:08" hostname="0767 - DESKTOP-SQ56SGT" id="Test Suites/Test Suites/Para Bank">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240120_004354\\Test Suites\\Para Bank\\20240120_004354"/>
+         <property name="logFiles" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240120_004354\\Test Suites\\Para Bank\\20240120_004354\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="0767 - DESKTOP-SQ56SGT"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;requestId&quot;: &quot;3c1c61d2-aabb-4ead-8049-d8183360facb&quot;,&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;119.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;unlimitedExecutionMinutes&quot;: true,&#xa;    &quot;userId&quot;: 1420960,&#xa;    &quot;organizationId&quot;: &quot;1378380&quot;,&#xa;    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;usingTunnel&quot;: false&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;119.0.6045.9 (c7ec5863fa5c563b4b9057148aa2ae3f09f7994e-refs/branch-heads/6045@{#87})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Program Files (x86)\\scoped_dir3948_552184092&quot;&#xa;  },&#xa;  &quot;os&quot;: &quot;windows&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;version&quot;: &quot;119&quot;,&#xa;  &quot;se:cdp&quot;: &quot;ws://172.48.47.234:4444/session/47149f4f440422cc41d3406df96537db/se/cdp&quot;,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;DIRECT&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webdriver.remote.sessionid&quot;: &quot;47149f4f440422cc41d3406df96537db&quot;,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 119.0.0.0"/>
+         <property name="hostAddress" value="192.168.90.251"/>
+         <property name="sessionId" value="47149f4f440422cc41d3406df96537db"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Para Bank/Login" time="51.88" classname="Test Cases/Para Bank/Login" status="PASSED">
+         <system-out><![CDATA[20-01-2024T00:44:08 - [TEST_CASE][PASSED] - Test Cases/Para Bank/Login: Test Cases/Para Bank/Login
+
+20-01-2024T00:44:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - User set preference: ['browserVersion', '119']
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1378380, tunnelId=, usingTunnel=false}']
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+20-01-2024T00:44:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+20-01-2024T00:44:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+20-01-2024T00:44:37 - [TEST_STEP][PASSED] - navigateToUrl("https://parabank.parasoft.com/parabank/index.htm"): Navigate to 'https://parabank.parasoft.com/parabank/index.htm' successfully
+
+20-01-2024T00:44:39 - [MESSAGE][PASSED] - Navigate to 'https://parabank.parasoft.com/parabank/index.htm' successfully
+
+20-01-2024T00:44:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username"), "asep"): Text 'asep' is set on object 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username'
+
+20-01-2024T00:44:48 - [MESSAGE][PASSED] - Text 'asep' is set on object 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username'
+
+20-01-2024T00:44:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password"), "amhbjqpz+W+cUhleMTuzlg=="): Text ****** has been set on object 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password'
+
+20-01-2024T00:44:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_password'
+
+20-01-2024T00:44:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button")): Object: 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button' is clicked on
+
+20-01-2024T00:45:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Para Bank/Open New Account" time="38.421" classname="Test Cases/Para Bank/Open New Account" status="PASSED">
+         <system-out><![CDATA[20-01-2024T00:45:00 - [TEST_CASE][PASSED] - Test Cases/Para Bank/Open New Account: Test Cases/Para Bank/Open New Account
+
+20-01-2024T00:45:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account")): Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account' is clicked on
+
+20-01-2024T00:45:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account' is clicked on
+
+20-01-2024T00:45:05 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Para Bank/Page_ParaBank  Open Account/select_CHECKING                  SAVINGS"), "1", true): All options with value '1' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Open Account/select_CHECKING                  SAVINGS'  using regular expression
+
+20-01-2024T00:45:30 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Open Account/select_CHECKING                  SAVINGS'  using regular expression
+
+20-01-2024T00:45:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Open Account/input_button")): Object: 'Object Repository/Para Bank/Page_ParaBank  Open Account/input_button' is clicked on
+
+20-01-2024T00:45:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Open Account/input_button' is clicked on
+
+20-01-2024T00:45:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Open Account/a_32547")): Object: 'Object Repository/Para Bank/Page_ParaBank  Open Account/a_32547' is clicked on
+
+20-01-2024T00:45:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Open Account/a_32547' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Para Bank/Account Overview" time="41.561" classname="Test Cases/Para Bank/Account Overview" status="PASSED">
+         <system-out><![CDATA[20-01-2024T00:45:38 - [TEST_CASE][PASSED] - Test Cases/Para Bank/Account Overview: Test Cases/Para Bank/Account Overview
+
+20-01-2024T00:45:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview")): Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview' is clicked on
+
+20-01-2024T00:45:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview' is clicked on
+
+20-01-2024T00:45:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00")): Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00' is clicked on
+
+20-01-2024T00:46:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='accountTable']/tbody/tr[3]/td[2]/b'. Please recheck the objects properties to make sure the desired element is located. 
+
+20-01-2024T00:46:15 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00'. Try using Self-healing.
+
+20-01-2024T00:46:19 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00' was broken. Propose an alternative one: '//td[2]/b'.
+
+20-01-2024T00:46:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/b_5000.00' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Para Bank/Transfer Funds" time="73.823" classname="Test Cases/Para Bank/Transfer Funds" status="PASSED">
+         <system-out><![CDATA[20-01-2024T00:46:20 - [TEST_CASE][PASSED] - Test Cases/Para Bank/Transfer Funds: Test Cases/Para Bank/Transfer Funds
+
+20-01-2024T00:46:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds")): Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds' is clicked on
+
+20-01-2024T00:46:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds' is clicked on
+
+20-01-2024T00:46:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input"), "110"): Text '110' is set on object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input'
+
+20-01-2024T00:46:31 - [MESSAGE][PASSED] - Text '110' is set on object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input'
+
+20-01-2024T00:46:31 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547"), "32436", true): All options with value '32436' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547'  using regular expression
+
+20-01-2024T00:46:58 - [MESSAGE][PASSED] - All options with value '32436' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547'  using regular expression
+
+20-01-2024T00:46:58 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547"), "32547", true): All options with value '32547' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547'  using regular expression
+
+20-01-2024T00:47:30 - [MESSAGE][PASSED] - All options with value '32547' are selected in object 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/select_3243632547'  using regular expression
+
+20-01-2024T00:47:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_button")): Object: 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_button' is clicked on
+
+20-01-2024T00:47:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[20-01-2024T00:44:08 - [TEST_SUITE][PASSED] - Para Bank: Test Cases/Para Bank/Transfer Funds]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

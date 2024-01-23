@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/ul/li/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Open New Account_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/ul/li[2]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Transfer Funds\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Transfer Funds_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input",
+      "brokenLocator": "//input[@id\u003d\u0027amount\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Transfer Funds/input_input_position.png"
+    }
+  ]
+}

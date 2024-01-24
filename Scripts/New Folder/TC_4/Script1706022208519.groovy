@@ -22,7 +22,9 @@ WebUI.callTestCase(findTestCase('Cura Healthcare Center/Login'), [:], FailureHan
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Hongkong CURA Healthcare Center', true)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
+WebUI.click(findTestObject('Baru/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospital_readmission'))
+
+WebUI.click(findTestObject('Baru/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/td_31'))
 

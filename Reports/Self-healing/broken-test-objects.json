@@ -109,6 +109,36 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Para Bank/Page_ParaBank  Bill Pay/input_button_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Go to Homepage",
+      "brokenLocator": "//section[@id\u003d\u0027history\u0027]/div/div[3]/p/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Go to Homepage\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Go to Homepage_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Profile",
+      "brokenLocator": "(//a[@onclick\u003d\"$(\u0027#menu-close\u0027).click();\"])[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Home\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Profile_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Logout",
+      "brokenLocator": "//section[@id\u003d\u0027profile\u0027]/div/div/div/p[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Make Appointment\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Logout_neighbor.png"
     }
   ]
 }

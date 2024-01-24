@@ -8266,3 +8266,97 @@
         _sessionCache: [Object] } },
   code: 'ERR_BAD_REQUEST',
   status: 401 }
+[2024-01-24T09:39:46.176] [ERROR] katalon - executeJob: { Error: Cloning into 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.24-9.38--2424-Ndq6Lc5dd49Q-3349863\ProjectIGLO.git'...
+error: RPC failed; curl 92 HTTP/2 stream 5 was not closed cleanly: CANCEL (err 8)
+error: 1438 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+
+    at Object.action (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1300:25)
+    at PluginStore.exec (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1335:29)
+    at __esm.src/lib/runners/git-executor-chain.ts.GitExecutorChain.handleTaskData.Promise (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1731:43)
+    at new Promise (<anonymous>)
+    at GitExecutorChain.handleTaskData (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1729:16)
+    at GitExecutorChain.<anonymous> (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1713:44)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:55:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  task:
+   { commands:
+      [ 'clone',
+        '--depth',
+        '1',
+        '--branch',
+        'main',
+        'https://AsepLmari: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@github.com/AsepLamri/ProjectIGLO.git',
+        'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.24-9.38--2424-Ndq6Lc5dd49Q-3349863\\ProjectIGLO.git' ],
+     format: 'utf-8',
+     parser: [Function: parser] } }
+[2024-01-24T09:39:54.629] [ERROR] katalon - { message: 'Request failed with status code 400',
+  name: 'AxiosError',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack: undefined,
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2',
+        'Content-Length': 121 },
+     method: 'post',
+     url: 'https://testops.katalon.io/api/v1/jobs/update-job',
+     params: {},
+     data:
+      '{"id":3349863,"status":"FAILED","processId":"7e5bcdf6-9069-4a6f-b3d7-0939ee5cdf5f","stopTime":"2024-01-24T02:39:52.211Z"}',
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: [Object],
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'ERR_BAD_REQUEST',
+  status: 400 }
+[2024-01-24T09:39:54.655] [ERROR] katalon - { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.24-9.38--2424-Ndq6Lc5dd49Q-3349863'
+    at Object.rmdirSync (fs.js:684:3)
+    at rmkidsSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:349:27)
+    at rmdirSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:329:7)
+    at rimrafSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:301:9)
+    at Object._cleanupCallback [as removeCallback] (D:\snapshot\katalon-agent\node_modules\tmp\lib\tmp.js:356:16)
+    at executeJob (D:\snapshot\katalon-agent\src\service\agent.js:0:0)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -4051,
+  syscall: 'rmdir',
+  code: 'ENOTEMPTY',
+  path:
+   'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.24-9.38--2424-Ndq6Lc5dd49Q-3349863' }

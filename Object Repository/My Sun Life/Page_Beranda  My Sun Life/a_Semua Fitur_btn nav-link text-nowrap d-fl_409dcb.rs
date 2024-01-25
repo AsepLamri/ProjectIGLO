@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Semua Fitur_btn nav-link text-nowrap d-fl_409dcb</name>
+   <tag></tag>
+   <elementGuidId>12a4d2da-36fa-4dd7-88e1-552ca935de05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tour-8']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.nav-link.text-nowrap.d-flex.gap-1.gap-md-2.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85332dbe-972e-4077-84ed-73ca8d58ece7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn nav-link text-nowrap d-flex gap-1 gap-md-2 align-items-center</value>
+      <webElementGuid>f909270b-817a-4b8a-bcea-3625678845fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/msl/notification</value>
+      <webElementGuid>a1138356-e1c2-4bff-a5df-c1d3ab249714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tour-8&quot;)/a[@class=&quot;btn nav-link text-nowrap d-flex gap-1 gap-md-2 align-items-center&quot;]</value>
+      <webElementGuid>4aa591af-70b4-49b9-b10f-1c52ce77d808</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tour-8']/a</value>
+      <webElementGuid>8e3e3896-8b98-423d-a59f-154764e0414e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Fitur'])[1]/following::a[1]</value>
+      <webElementGuid>6158b052-9924-4275-b99d-1e979fc5747f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8d6b72f-4f57-4fc0-a20d-9dde6f9f2ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Riwayat Transaksi'])[1]/preceding::a[2]</value>
+      <webElementGuid>11eeaa19-1f0b-4aa2-ae27-c8f424751c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/msl/notification')]</value>
+      <webElementGuid>cfa2f934-ef4d-470c-aacc-1e7f283c0f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>f796db19-beba-4233-814a-f977350708a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/msl/notification']</value>
+      <webElementGuid>2f160147-476c-4306-a59e-4995f726d92b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

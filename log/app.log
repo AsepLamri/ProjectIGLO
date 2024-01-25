@@ -8749,3 +8749,960 @@ fatal: fetch-pack: invalid index-pack output
 [2024-01-24T10:40:36.141] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
 [2024-01-24T10:41:35.758] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
 [2024-01-24T10:41:35.884] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:42:36.005] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:42:36.171] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:43:35.806] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:43:35.914] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:44:36.025] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:44:36.186] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:45:35.720] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:45:35.899] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:46:35.730] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:46:35.904] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:47:35.742] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:47:35.927] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:48:35.874] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:48:36.058] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:49:35.914] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:49:36.027] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:50:35.729] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:50:35.837] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:51:35.732] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:51:35.907] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:52:35.952] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:52:36.130] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:53:35.897] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:53:36.019] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:54:35.833] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:54:35.863] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:55:35.812] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:55:35.888] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:56:35.834] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:56:35.957] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:57:35.986] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:57:35.996] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:58:36.238] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:58:36.253] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T10:59:35.937] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T10:59:36.166] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:00:36.180] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:00:36.630] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:01:36.123] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:01:36.286] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:02:35.870] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:02:35.950] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:03:36.472] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:03:37.120] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:04:35.955] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:04:36.000] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:05:36.064] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:05:36.175] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:06:35.920] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:06:36.202] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:07:35.916] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:07:36.049] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:08:35.883] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:08:36.050] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:09:35.988] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:09:36.077] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:10:36.497] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:10:36.626] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:11:36.015] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:11:36.083] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:12:35.981] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:12:36.023] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:13:35.903] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:13:36.020] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:14:36.048] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:14:36.199] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:15:36.091] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:15:36.168] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:16:35.977] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:16:36.098] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:17:36.054] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:17:36.127] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:18:35.958] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:18:36.042] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:19:36.062] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:19:36.139] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:20:36.024] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:20:36.116] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:21:36.103] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:21:36.116] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:22:36.066] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:22:34.571] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:23:34.485] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:23:34.613] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:24:34.533] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:24:34.694] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:25:34.449] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:25:34.520] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:26:34.557] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:26:34.602] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:27:34.520] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:27:34.577] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:28:34.481] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:28:34.731] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:29:34.495] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:29:34.558] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:30:34.632] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:30:34.753] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:31:34.490] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:31:34.593] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:32:34.632] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:32:34.632] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:33:34.695] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:33:34.772] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:34:34.505] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:34:34.790] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:35:34.582] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:35:34.642] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:36:34.645] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:36:34.855] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:37:34.567] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:37:34.697] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:38:34.560] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:38:34.735] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:39:34.579] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:39:34.716] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:40:34.691] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:40:34.811] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:41:34.674] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:41:34.715] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:42:34.724] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:42:34.775] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:43:34.747] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:43:34.772] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:44:34.591] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:44:34.666] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:45:34.585] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:45:34.655] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:46:34.692] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:46:34.755] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:47:34.676] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:47:34.768] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:48:34.722] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:48:34.962] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:49:34.711] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:49:34.817] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:50:34.666] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:50:34.737] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:51:34.689] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:51:34.881] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:52:34.703] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:52:34.816] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:53:34.685] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:53:34.761] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:54:34.696] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:54:34.814] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:55:34.680] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:55:34.757] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:56:34.691] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:56:34.870] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:57:34.702] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:57:34.778] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:58:34.741] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:58:34.751] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T11:59:34.742] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T11:59:34.856] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:00:34.749] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:00:34.857] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:01:34.697] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:01:34.752] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:02:34.762] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:02:34.810] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:03:34.748] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:03:34.929] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:04:34.840] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:04:34.888] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:05:34.769] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:05:34.919] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:06:34.858] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:06:34.924] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:07:34.766] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:07:34.930] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:08:34.876] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:08:34.925] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:09:34.918] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:09:34.989] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:10:34.783] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:10:34.842] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:11:34.796] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:11:34.868] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:12:34.864] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:12:34.923] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:13:34.775] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:13:34.846] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:14:34.838] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:14:34.877] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:15:34.826] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:15:34.914] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:16:34.924] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:16:34.957] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:17:34.894] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:17:34.909] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:18:34.952] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:18:34.991] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:19:34.874] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:19:34.976] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:20:34.994] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:20:35.042] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:21:34.892] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:21:34.971] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:22:34.933] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:22:35.031] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:23:34.899] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:23:35.081] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:24:34.925] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:24:34.994] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:25:34.966] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:25:35.020] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:26:34.923] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:26:35.005] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:27:34.930] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:27:35.071] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:28:34.969] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:28:35.103] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:29:34.990] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:29:35.075] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:30:37.011] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:30:37.079] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:31:34.974] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:31:35.015] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:32:34.992] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:32:35.106] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:33:35.006] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:33:35.044] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:34:34.988] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T12:34:35.098] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:35:35.083] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T12:35:35.092] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:19:27.434] [ERROR] katalon - { message:
+   'getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443',
+  name: 'Error',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack:
+   'Error: getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)',
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2' },
+     method: 'get',
+     url: 'https://testops.katalon.io/api/v1/jobs/get-job',
+     params:
+      { uuid: '1705980737362-88050189-da2f-419f-a814-b15282260fde',
+        organizationId: '1378380' },
+     data: null,
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'EAI_AGAIN',
+  status: null }
+[2024-01-24T13:19:27.856] [ERROR] katalon - { message:
+   'getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443',
+  name: 'Error',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack:
+   'Error: getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)',
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2' },
+     method: 'get',
+     url: 'https://testops.katalon.io/api/v1/jobs/get-job',
+     params:
+      { uuid: '1705980737362-88050189-da2f-419f-a814-b15282260fde',
+        organizationId: '1378380' },
+     data: null,
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'EAI_AGAIN',
+  status: null }
+[2024-01-24T13:19:27.985] [ERROR] katalon - { message:
+   'getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443',
+  name: 'Error',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack:
+   'Error: getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)',
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2',
+        'Content-Length': 197 },
+     method: 'post',
+     url: 'https://testops.katalon.io/api/v1/agent',
+     params: {},
+     data:
+      '{"uuid":"1705980737362-88050189-da2f-419f-a814-b15282260fde","name":"My Agent","organizationId":"1378380","hostname":"DESKTOP-SQ56SGT","ip":"192.168.56.1","os":"Windows 64","agentVersion":"v2.0.1"}',
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'EAI_AGAIN',
+  status: null }
+[2024-01-24T13:19:28.014] [ERROR] katalon - Cannot send agent info to server: { message:
+   'getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443',
+  name: 'Error',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack:
+   'Error: getaddrinfo EAI_AGAIN testops.katalon.io testops.katalon.io:443\n    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)',
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2',
+        'Content-Length': 197 },
+     method: 'post',
+     url: 'https://testops.katalon.io/api/v1/agent',
+     params: {},
+     data:
+      '{"uuid":"1705980737362-88050189-da2f-419f-a814-b15282260fde","name":"My Agent","organizationId":"1378380","hostname":"DESKTOP-SQ56SGT","ip":"192.168.56.1","os":"Windows 64","agentVersion":"v2.0.1"}',
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'EAI_AGAIN',
+  status: null }
+[2024-01-24T13:20:28.770] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:20:29.112] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:20:30.517] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/update-job 200.
+[2024-01-24T13:20:30.583] [INFO] katalon - Download test project to temp directory: C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.24-13.20--2424-pbQgNQMmLLR6-3351462
+[2024-01-24T13:20:30.611] [INFO] katalon - Uploading job execution log...
+[2024-01-24T13:20:32.230] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-24T13:20:32.800] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/03efe10d-77b4-4c06-a128-c085fc97e867?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T062031Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=522479fc7407b868e020bbd203d8803263be55e8d87599806ae2924bded0673f 200.
+[2024-01-24T13:20:34.145] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-24T13:20:34.198] [INFO] katalon - Downloading test project...
+[2024-01-24T13:20:34.701] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/03efe10d-77b4-4c06-a128-c085fc97e867?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T062031Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=522479fc7407b868e020bbd203d8803263be55e8d87599806ae2924bded0673f 200.
+[2024-01-24T13:20:36.014] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3351462/notify 200.
+[2024-01-24T13:21:02.235] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3351462 200.
+[2024-01-24T13:21:28.999] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:21:29.033] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:21:32.054] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3351462 200.
+[2024-01-24T13:22:02.028] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3351462 200.
+[2024-01-24T13:22:04.190] [ERROR] katalon - executeJob: { Error: Cloning into 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.24-13.20--2424-pbQgNQMmLLR6-3351462\ProjectIGLO.git'...
+error: unable to create file Reports/20240119_142048/Appointment/Appointment/20240119_142048/Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment_position.png: Filename too long
+error: unable to create file Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103932/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103942/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103942/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Reports/20240123_170653/Test Suites/Para Bank/20240123_170653/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Screenshots/Targets/Page_ParaBank  Accounts Overview/body_Experience the difference    Solutions  About Us  Services  Products  Locations  Admin Page      home  about  contactWelcome Digvijay AnneyAccount Services  Open New Account  Accounts Overview  Transfer Funds  Bill .png: Filename too long
+Updating files:  96% (668/694)Updating files:  97% (674/694)Updating files:  98% (681/694)Updating files:  99% (688/694)Updating files: 100% (694/694)Updating files: 100% (694/694), done.
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+
+    at Object.action (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1300:25)
+    at PluginStore.exec (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1335:29)
+    at __esm.src/lib/runners/git-executor-chain.ts.GitExecutorChain.handleTaskData.Promise (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1731:43)
+    at new Promise (<anonymous>)
+    at GitExecutorChain.handleTaskData (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1729:16)
+    at GitExecutorChain.<anonymous> (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1713:44)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:55:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  task:
+   { commands:
+      [ 'clone',
+        '--depth',
+        '1',
+        '--branch',
+        'main',
+        'https://AsepLmari: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@github.com/AsepLamri/ProjectIGLO.git',
+        'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.24-13.20--2424-pbQgNQMmLLR6-3351462\\ProjectIGLO.git' ],
+     format: 'utf-8',
+     parser: [Function: parser] } }
+[2024-01-24T13:22:04.198] [INFO] katalon - Uploading job execution log...
+[2024-01-24T13:22:04.741] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/03efe10d-77b4-4c06-a128-c085fc97e867?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T062031Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=522479fc7407b868e020bbd203d8803263be55e8d87599806ae2924bded0673f 200.
+[2024-01-24T13:22:05.764] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-24T13:22:05.915] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3351462/notify 200.
+[2024-01-24T13:22:06.266] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/72e4f7e5-4386-4bec-b3e5-4ff7def20fed?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T062205Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d8e7b0e0e0702955c5b6fe895120a722f7b182bd055b088e9b851799eea2ab59 200.
+[2024-01-24T13:22:07.527] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-24T13:22:09.389] [ERROR] katalon - { message: 'Request failed with status code 400',
+  name: 'AxiosError',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack: undefined,
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2',
+        'Content-Length': 121 },
+     method: 'post',
+     url: 'https://testops.katalon.io/api/v1/jobs/update-job',
+     params: {},
+     data:
+      '{"id":3351462,"status":"FAILED","processId":"c036fc98-0483-458e-8dd7-a924be074172","stopTime":"2024-01-24T06:22:07.528Z"}',
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: [Object],
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'ERR_BAD_REQUEST',
+  status: 400 }
+[2024-01-24T13:22:09.393] [INFO] katalon - Job execution log uploaded.
+[2024-01-24T13:22:10.201] [ERROR] katalon - { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.24-13.20--2424-pbQgNQMmLLR6-3351462'
+    at Object.rmdirSync (fs.js:684:3)
+    at rmkidsSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:349:27)
+    at rmdirSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:329:7)
+    at rimrafSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:301:9)
+    at Object._cleanupCallback [as removeCallback] (D:\snapshot\katalon-agent\node_modules\tmp\lib\tmp.js:356:16)
+    at executeJob (D:\snapshot\katalon-agent\src\service\agent.js:0:0)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -4051,
+  syscall: 'rmdir',
+  code: 'ENOTEMPTY',
+  path:
+   'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.24-13.20--2424-pbQgNQMmLLR6-3351462' }
+[2024-01-24T13:22:28.644] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:22:28.745] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:23:28.696] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:23:28.922] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:24:28.667] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:24:28.729] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:25:28.726] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:25:28.757] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:26:28.935] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:26:29.063] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:27:28.705] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:27:28.732] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:28:28.628] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:28:28.775] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:29:28.809] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:29:28.889] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:30:28.754] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:30:28.829] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:31:28.727] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:31:28.868] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:32:28.728] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:32:28.821] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:33:28.740] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:33:28.821] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:34:28.818] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:34:28.903] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:35:28.736] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:35:28.857] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:36:28.861] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:36:28.928] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:37:28.781] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:37:28.973] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:38:28.835] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:38:28.937] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:39:28.829] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:39:29.394] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:40:28.834] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:40:28.900] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:41:28.844] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:41:29.168] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:42:28.787] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:42:28.845] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:43:28.794] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:43:28.866] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:44:28.893] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:44:28.931] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:45:28.801] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:45:28.924] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:46:28.926] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:46:29.064] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:47:28.901] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:47:28.997] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:48:28.810] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:48:28.929] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:49:28.982] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:49:29.012] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:50:29.070] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:50:29.201] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:51:28.817] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:51:29.001] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:52:29.026] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:52:29.079] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:53:29.285] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:53:29.285] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:54:28.862] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:54:29.168] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:55:28.886] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:55:28.905] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:56:28.882] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:56:28.940] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:57:28.880] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:57:28.928] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:58:28.892] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:58:28.938] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T13:59:28.905] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T13:59:28.916] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:00:28.873] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:00:29.128] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:01:28.889] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:01:29.081] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:02:28.894] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:02:29.003] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:03:28.971] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:03:29.075] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:04:28.914] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:04:29.086] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:05:28.908] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:05:29.054] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:06:28.957] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:06:29.040] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:07:29.004] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:07:29.090] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:08:28.958] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:08:29.124] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:09:28.898] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:09:29.103] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:10:28.949] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:10:28.986] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:11:28.917] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:11:29.031] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:12:28.928] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:12:28.995] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:13:29.120] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:13:29.162] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:14:29.065] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:14:29.088] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:15:28.979] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:15:29.129] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:16:29.067] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:16:29.114] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:17:28.996] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:17:29.177] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:18:29.052] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:18:29.105] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:19:29.020] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:19:29.152] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:20:29.102] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:20:29.110] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:21:29.030] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:21:29.149] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:22:29.097] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:22:29.174] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:23:29.117] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:23:29.123] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:24:29.085] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:24:29.175] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:25:29.110] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:25:29.200] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:26:29.033] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:26:29.165] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:27:29.388] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:27:29.389] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:28:29.269] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:28:29.330] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:29:29.295] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:29:29.367] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:30:29.534] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:30:29.625] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:31:29.399] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:31:29.501] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:32:29.117] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:32:29.185] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:33:29.161] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:33:29.258] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:34:29.374] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:34:29.479] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:35:29.432] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:35:29.668] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:36:29.144] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:36:29.154] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:37:30.356] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:37:30.649] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:38:29.365] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:38:29.436] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:39:29.329] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:39:29.588] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:40:29.178] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:40:29.211] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:41:29.421] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:41:29.426] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:42:30.038] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:42:30.121] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:43:29.338] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:43:29.410] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:44:29.299] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:44:29.301] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:45:29.698] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:45:29.770] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:46:29.252] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:46:29.257] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:47:29.498] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:47:29.626] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:48:29.608] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:48:30.335] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:49:29.353] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:49:29.495] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:50:29.253] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:50:29.361] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:51:30.777] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:51:30.828] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:52:29.367] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:52:29.445] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:53:30.644] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:53:30.774] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:54:29.368] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:54:29.489] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:55:30.914] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:55:31.023] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:56:29.516] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:56:29.613] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:57:29.411] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:57:29.478] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:58:29.843] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:58:30.021] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T14:59:31.460] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T14:59:31.541] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:00:29.339] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:00:29.483] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:01:30.933] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:01:31.094] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:02:29.527] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:02:29.773] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:03:29.380] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:03:29.437] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:04:29.371] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:04:29.652] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:05:29.407] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:05:29.408] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:06:29.457] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:06:29.533] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:07:29.327] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:07:29.429] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:08:29.353] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:08:29.502] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:09:29.448] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:09:29.454] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:10:29.504] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:10:29.725] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:11:29.444] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:11:29.513] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:12:30.292] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:12:30.363] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:13:29.396] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:13:29.481] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:14:29.496] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:14:29.626] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:15:29.535] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:15:29.601] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:16:30.021] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:16:30.895] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:17:29.506] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:17:29.643] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T15:18:29.582] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T15:18:29.623] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:33:09.488] [INFO] katalon - Updated configs @ C:\Users\0767\Katalon Studio\ProjectIGLO\agentconfig.
+[2024-01-25T13:33:12.292] [INFO] katalon - Loading agent configs @ C:\Users\0767\Katalon Studio\ProjectIGLO\agentconfig
+[2024-01-25T13:33:12.301] [INFO] katalon - Katalon Agent v2.0.1 started @ Thu Jan 25 2024 13:33:12 GMT+0700 (Western Indonesia Time)
+[2024-01-25T13:33:12.302] [INFO] katalon - Getting server profiles...
+[2024-01-25T13:33:13.707] [INFO] katalon - get https://testops.katalon.io/info 200.
+[2024-01-25T13:33:15.720] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:33:16.962] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/update-job 200.
+[2024-01-25T13:33:16.966] [INFO] katalon - Download test project to temp directory: C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.25-13.33--8472-pD6Hww1ibSJx-3365401
+[2024-01-25T13:33:17.036] [INFO] katalon - Uploading job execution log...
+[2024-01-25T13:33:18.672] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-25T13:33:19.249] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/eeabacec-cb03-4020-a252-1dd6ea6f4826?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240125T063317Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d27a755b1e5ea9c5d598c00b7650f6bf718e5897d36783982bd7d44a73171f80 200.
+[2024-01-25T13:33:20.846] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-25T13:33:20.918] [INFO] katalon - Downloading test project...
+[2024-01-25T13:33:21.414] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/eeabacec-cb03-4020-a252-1dd6ea6f4826?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240125T063317Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d27a755b1e5ea9c5d598c00b7650f6bf718e5897d36783982bd7d44a73171f80 200.
+[2024-01-25T13:33:22.651] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3365401/notify 200.
+[2024-01-25T13:33:48.494] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3365401 200.
+[2024-01-25T13:34:14.977] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:34:15.124] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:34:18.583] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3365401 200.
+[2024-01-25T13:34:48.918] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3365401 200.
+[2024-01-25T13:35:15.403] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:35:15.575] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:35:18.952] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3365401 200.
+[2024-01-25T13:35:21.489] [ERROR] katalon - executeJob: { Error: Cloning into 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.25-13.33--8472-pD6Hww1ibSJx-3365401\ProjectIGLO.git'...
+error: unable to create file Reports/20240119_142048/Appointment/Appointment/20240119_142048/Object Repository/Web Testing/Page_CURA Healthcare Service/h2_Make Appointment_position.png: Filename too long
+error: unable to create file Reports/20240119_223851/Test Suites/Para Bank/20240119_223854/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103932/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103942/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png: Filename too long
+error: unable to create file Reports/20240123_103925/Test Suites/Para Bank/20240123_103942/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Reports/20240123_170653/Test Suites/Para Bank/20240123_170653/Object Repository/Para Bank/Page_ParaBank  Welcome  Online Banking/input_username_attributes.png: Filename too long
+error: unable to create file Screenshots/Targets/Page_ParaBank  Accounts Overview/body_Experience the difference    Solutions  About Us  Services  Products  Locations  Admin Page      home  about  contactWelcome Digvijay AnneyAccount Services  Open New Account  Accounts Overview  Transfer Funds  Bill .png: Filename too long
+Updating files:  95% (665/694)Updating files:  96% (667/694)Updating files:  97% (674/694)Updating files:  98% (681/694)Updating files:  99% (688/694)Updating files: 100% (694/694)Updating files: 100% (694/694), done.
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry with 'git restore --source=HEAD :/'
+
+
+    at Object.action (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1300:25)
+    at PluginStore.exec (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1335:29)
+    at __esm.src/lib/runners/git-executor-chain.ts.GitExecutorChain.handleTaskData.Promise (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1731:43)
+    at new Promise (<anonymous>)
+    at GitExecutorChain.handleTaskData (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1729:16)
+    at GitExecutorChain.<anonymous> (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:1713:44)
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\snapshot\katalon-agent\node_modules\simple-git\dist\cjs\index.js:55:24)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  task:
+   { commands:
+      [ 'clone',
+        '--depth',
+        '1',
+        '--branch',
+        'main',
+        'https://AsepLmari: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@github.com/AsepLamri/ProjectIGLO.git',
+        'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.25-13.33--8472-pD6Hww1ibSJx-3365401\\ProjectIGLO.git' ],
+     format: 'utf-8',
+     parser: [Function: parser] } }
+[2024-01-25T13:35:21.499] [INFO] katalon - Uploading job execution log...
+[2024-01-25T13:35:22.153] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/eeabacec-cb03-4020-a252-1dd6ea6f4826?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240125T063317Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d27a755b1e5ea9c5d598c00b7650f6bf718e5897d36783982bd7d44a73171f80 200.
+[2024-01-25T13:35:23.242] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-25T13:35:23.567] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3365401/notify 200.
+[2024-01-25T13:35:23.768] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/a9d944dd-11cc-4603-a74a-00cb4f23ad3d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240125T063522Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6074aaa7d407ddc3319195e91483bf1f53aba48c657957bdf6118fa9a23ebb3 200.
+[2024-01-25T13:35:25.409] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-25T13:35:26.796] [ERROR] katalon - { message: 'Request failed with status code 400',
+  name: 'AxiosError',
+  description: undefined,
+  number: undefined,
+  fileName: undefined,
+  lineNumber: undefined,
+  columnNumber: undefined,
+  stack: undefined,
+  config:
+   { transitional:
+      { silentJSONParsing: true,
+        forcedJSONParsing: true,
+        clarifyTimeoutError: false },
+     adapter: [Function: httpAdapter],
+     transformRequest: [ [Function: transformRequest] ],
+     transformResponse: [ [Function: transformResponse] ],
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     maxBodyLength: -1,
+     env: { FormData: [Function] },
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/json',
+        Authorization: 'Basic OjMwYTY0NmE1LTZjMTQtNDFkZi05YThlLTcxYmJkMzgxY2NmNg==',
+        'User-Agent': 'axios/0.27.2',
+        'Content-Length': 121 },
+     method: 'post',
+     url: 'https://testops.katalon.io/api/v1/jobs/update-job',
+     params: {},
+     data:
+      '{"id":3365401,"status":"FAILED","processId":"901a1270-06b9-4922-aab6-e9c14ba67d18","stopTime":"2024-01-25T06:35:25.409Z"}',
+     proxy: null,
+     httpsAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: [Object],
+        keepAliveMsecs: 1000,
+        keepAlive: true,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] } },
+  code: 'ERR_BAD_REQUEST',
+  status: 400 }
+[2024-01-25T13:35:26.799] [INFO] katalon - Job execution log uploaded.
+[2024-01-25T13:35:27.315] [ERROR] katalon - { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\0767\Katalon Studio\ProjectIGLO\tmp\2024.01.25-13.33--8472-pD6Hww1ibSJx-3365401'
+    at Object.rmdirSync (fs.js:684:3)
+    at rmkidsSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:349:27)
+    at rmdirSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:329:7)
+    at rimrafSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:301:9)
+    at Object._cleanupCallback [as removeCallback] (D:\snapshot\katalon-agent\node_modules\tmp\lib\tmp.js:356:16)
+    at executeJob (D:\snapshot\katalon-agent\src\service\agent.js:0:0)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -4051,
+  syscall: 'rmdir',
+  code: 'ENOTEMPTY',
+  path:
+   'C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\tmp\\2024.01.25-13.33--8472-pD6Hww1ibSJx-3365401' }
+[2024-01-25T13:36:13.575] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:36:13.664] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:37:13.677] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:37:13.818] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:38:13.573] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:38:13.706] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:39:13.587] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:39:13.664] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:40:13.956] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:40:14.826] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:41:13.809] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:41:13.866] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:42:13.728] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-25T13:42:13.784] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:43:13.644] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-25T13:43:13.645] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Nomor PolisA60573511A002268521C02057_424516</name>
+   <tag></tag>
+   <elementGuidId>57fb55a6-6db3-4f52-ab23-105dd8ca28cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='nomorPolis'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4 > div.sl-dropdown.my-3.form-floating > select[name=&quot;nomorPolis&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7c1179bc-07bf-4431-9d78-9ffb6dc9a998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b33c95b6-ed4d-4513-a7a9-1fa18c4800cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select </value>
+      <webElementGuid>65890910-6725-4f1b-8ff4-41977bec205d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nomor Polis</value>
+      <webElementGuid>ead5ef83-ea1d-4806-be97-45a145e23982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>Nomor Polis</value>
+      <webElementGuid>ead0c742-fd6b-4c69-845b-4f8f5b7f84be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nomorPolis</value>
+      <webElementGuid>180f43cd-9dcf-49ef-9764-1b6dfd30f164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor PolisA60573511A002268521C02057684010215211010080010129207255131892851100261212105228262</value>
+      <webElementGuid>47143387-1f27-4764-80af-c082b2338f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex flex-column align-item justify-content-between h-100&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;mt-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;sl-dropdown my-3 form-floating&quot;]/select[@class=&quot;form-select&quot;]</value>
+      <webElementGuid>693b77c1-029b-4dfe-8f61-52294fb560a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='nomorPolis'])[2]</value>
+      <webElementGuid>dfbd6e66-b753-45a3-9a38-c9cec01d86ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div[3]/div/div/div/select</value>
+      <webElementGuid>af1761a5-8dd5-44a3-94dd-d6017a919d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Finansial'])[1]/following::select[1]</value>
+      <webElementGuid>67c5d5f9-d503-4108-adc0-c325a4783686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perubahan Polis'])[1]/following::select[1]</value>
+      <webElementGuid>7500e232-bb02-4d50-a0a6-d4c7867cc053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Polis'])[3]/preceding::select[1]</value>
+      <webElementGuid>59c419c7-72a1-421f-950b-c9f0f9c3f531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Layanan'])[1]/preceding::select[1]</value>
+      <webElementGuid>da3a0084-ddbd-4649-9ad3-009cccf9a2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/select</value>
+      <webElementGuid>b3abd0f4-8378-4ef1-9c2a-956e61900b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@type = 'text' and @name = 'nomorPolis' and (text() = 'Nomor PolisA60573511A002268521C02057684010215211010080010129207255131892851100261212105228262' or . = 'Nomor PolisA60573511A002268521C02057684010215211010080010129207255131892851100261212105228262')]</value>
+      <webElementGuid>29b00479-87ed-40c5-9417-fcff7879f47a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

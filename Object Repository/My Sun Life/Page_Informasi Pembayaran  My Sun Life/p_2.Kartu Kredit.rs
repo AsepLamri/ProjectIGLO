@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2.Kartu Kredit</name>
+   <tag></tag>
+   <elementGuidId>8677a6c2-c086-4521-94f5-1f1ee3540784</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pembayaranViaAgent-f35cb076-ce6b-4c2a-8dbf-7dcdd866b9d4']/div/span/p[22]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ce2b2719-7397-438f-a4e0-ed3d5ac97759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2.   Kartu Kredit</value>
+      <webElementGuid>27c029ed-0ae8-4bf5-9162-29629bed7e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pembayaranViaAgent-f35cb076-ce6b-4c2a-8dbf-7dcdd866b9d4&quot;)/div[@class=&quot;accordion-body px-4 pt-2&quot;]/span[1]/p[22]</value>
+      <webElementGuid>aa8bb4b6-1f66-41e4-bc25-56eb5b9c901f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pembayaranViaAgent-f35cb076-ce6b-4c2a-8dbf-7dcdd866b9d4']/div/span/p[22]</value>
+      <webElementGuid>eb1083f5-be73-4561-83a3-06b356cd75f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(9digit nomor polis)'])[2]/following::p[2]</value>
+      <webElementGuid>f58c6021-a518-4d5f-990f-3a14b06e41f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BSI                                        : 9288600'])[1]/following::p[2]</value>
+      <webElementGuid>88a6007c-34f5-419c-8beb-f8f1fdad31f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran Premi Investasi Tunggal*(Top up)'])[1]/preceding::p[31]</value>
+      <webElementGuid>be5649f9-85b0-492f-8f70-4ce183f3b8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank CIMB Niaga       : 3439 (9 digit nomor polis)'])[1]/preceding::p[32]</value>
+      <webElementGuid>5588b887-a7d7-4772-80e3-e145762c11d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/span/p[22]</value>
+      <webElementGuid>31318f8e-4461-45ff-bb9b-30d562df7f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2.   Kartu Kredit' or . = '2.   Kartu Kredit')]</value>
+      <webElementGuid>36bb83c1-635a-4183-b0b7-c619315bc04e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Riwayat Klaim</name>
+   <tag></tag>
+   <elementGuidId>cc96696e-69ea-45b7-9985-c8fc8f18db05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>28a87a78-a2bb-4bf2-bc19-409882d9f4e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-link text-dark fw-normal</value>
+      <webElementGuid>91ed413c-f018-40d0-8d63-0aba7a562fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/msl/application-status/claim</value>
+      <webElementGuid>296fd064-c70f-4809-9fb5-1ed631514831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riwayat Klaim</value>
+      <webElementGuid>1c183948-dfdd-4bb1-a075-f3b5d63e3bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex flex-column align-item justify-content-between h-100&quot;]/div[2]/div[@class=&quot;container pt-5 mt-5&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;row g-3&quot;]/div[@class=&quot;col-md-8 mb-4&quot;]/div[@class=&quot;row g-2&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/a[@class=&quot;sl-link text-dark fw-normal&quot;]</value>
+      <webElementGuid>a4df60b2-2464-4daf-bb1a-9d300e70c55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div/div/a[2]</value>
+      <webElementGuid>808d3775-6874-4af1-a2c4-04f2467a38c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Riwayat Klaim')]</value>
+      <webElementGuid>646b7de6-6591-4de8-b0e8-740755377e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Administrasi'])[3]/following::a[1]</value>
+      <webElementGuid>cb6da031-e518-49d9-84b6-2533ad931b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Layanan'])[1]/following::a[2]</value>
+      <webElementGuid>6d820f16-b874-458f-abc4-3d07f268c92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pembayaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab621e76-fa17-4f25-a936-41b9155b1d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanda Terima Ringkasan Polis'])[2]/preceding::a[2]</value>
+      <webElementGuid>7e0426e5-afe2-4b29-a8aa-525de96a15e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat Klaim']/parent::*</value>
+      <webElementGuid>d26ba5b6-0556-42e2-b26b-cdb99dc7a7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/msl/application-status/claim')]</value>
+      <webElementGuid>67a35b63-6455-4d6e-b61e-be97293ea0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a[2]</value>
+      <webElementGuid>da824384-b55b-4215-8d95-6c7b7f4a1421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/msl/application-status/claim' and (text() = 'Riwayat Klaim' or . = 'Riwayat Klaim')]</value>
+      <webElementGuid>9a9f008a-ceb3-4f82-aefe-86134ca4a15b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

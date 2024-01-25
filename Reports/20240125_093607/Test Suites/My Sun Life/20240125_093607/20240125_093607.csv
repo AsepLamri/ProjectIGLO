@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+My Sun Life,Chrome 120.0.0.0,,,25-01-2024 09:36:23,25-01-2024 09:44:22,7m - 58.966s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Login,Chrome 120.0.0.0,,,25-01-2024 09:36:24,25-01-2024 09:36:54,30.374s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 09:36:25,25-01-2024 09:36:28,3.526s,PASSED
+"navigateToUrl(""https://iglo-dev.ekreasi.com/msl/landing"")",Chrome 120.0.0.0,,,25-01-2024 09:36:28,25-01-2024 09:36:32,3.601s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_My Sun Life/span_Log In""))",Chrome 120.0.0.0,,,25-01-2024 09:36:32,25-01-2024 09:36:32,0.621s,PASSED
+"setText(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_identifier""), ""hari.sabintang@indocyber.id"")",Chrome 120.0.0.0,,,25-01-2024 09:36:32,25-01-2024 09:36:52,19.881s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_credentials.passcode""), ""VpPqM6/QKln4pL8M9Th8UA=="")",Chrome 120.0.0.0,,,25-01-2024 09:36:52,25-01-2024 09:36:53,0.467s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/span_eyeicon visibility-16 button-show""))",Chrome 120.0.0.0,,,25-01-2024 09:36:53,25-01-2024 09:36:53,0.533s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/label_Keep me signed in""))",Chrome 120.0.0.0,,,25-01-2024 09:36:53,25-01-2024 09:36:54,0.579s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_button button-primary""))",Chrome 120.0.0.0,,,25-01-2024 09:36:54,25-01-2024 09:36:54,0.487s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Bayar Premi Kontribusi,Chrome 120.0.0.0,,,25-01-2024 09:36:54,25-01-2024 09:37:28,34.052s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/span_Bayar Premi""))",Chrome 120.0.0.0,,,25-01-2024 09:36:54,25-01-2024 09:37:28,33.928s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Cek Riwayat,Chrome 120.0.0.0,,,25-01-2024 09:39:18,25-01-2024 09:39:55,36.371s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/span_Cek Riwayat""))",Chrome 120.0.0.0,,,25-01-2024 09:39:18,25-01-2024 09:39:55,36.358s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/DIGIF Formulir Digital,Chrome 120.0.0.0,,,25-01-2024 09:41:42,25-01-2024 09:42:18,35.296s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/span_DIGIF(Formulir Digital)""))",Chrome 120.0.0.0,,,25-01-2024 09:41:42,25-01-2024 09:42:18,35.282s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Notifikasi,Chrome 120.0.0.0,,,25-01-2024 09:44:16,25-01-2024 09:44:20,3.870s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/a_Semua Fitur_btn nav-link text-nowrap d-fl_409dcb""))",Chrome 120.0.0.0,,,25-01-2024 09:44:17,25-01-2024 09:44:19,2.799s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_My Sun Life/div_28 Dec 2023Aku tinggalkan kepada kamu d_298e30""))",Chrome 120.0.0.0,,,25-01-2024 09:44:19,25-01-2024 09:44:20,1.052s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Logout,Chrome 120.0.0.0,,,25-01-2024 09:44:20,25-01-2024 09:44:22,2.040s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/button_Semua Fitur""))",Chrome 120.0.0.0,,,25-01-2024 09:44:20,25-01-2024 09:44:21,0.431s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/div_Pengaturan Aplikasi""))",Chrome 120.0.0.0,,,25-01-2024 09:44:21,25-01-2024 09:44:21,0.403s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Pengaturan Aplikasi  My Sun Life/small_Keluar Akun""))",Chrome 120.0.0.0,,,25-01-2024 09:44:21,25-01-2024 09:44:22,1.138s,PASSED

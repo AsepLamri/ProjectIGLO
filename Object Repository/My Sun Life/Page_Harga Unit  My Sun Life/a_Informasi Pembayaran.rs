@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Informasi Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>28624845-3106-4ef3-a166-9728ccb14f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75e2e5e5-8264-4b54-b51d-4a84e0dbc43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-link text-dark fw-normal fw-normal</value>
+      <webElementGuid>f8bbdffe-ecdf-4c8e-96e1-c324cf5d9236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/msl/others/payment-information</value>
+      <webElementGuid>803f8dca-2eb0-4e51-8f28-6b72037a97ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi Pembayaran</value>
+      <webElementGuid>0fbb09d8-6428-47c7-aff9-94c252e640a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex flex-column align-item justify-content-between h-100&quot;]/div[2]/div[@class=&quot;container pt-5 mt-5&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;row g-3&quot;]/div[@class=&quot;col-md-8 mb-4&quot;]/div[@class=&quot;row g-2&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/a[@class=&quot;sl-link text-dark fw-normal fw-normal&quot;]</value>
+      <webElementGuid>6918afbb-33c2-42e5-b3b2-adb877fca014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a[4]</value>
+      <webElementGuid>85c99b82-15ee-4a39-aa8b-c497a10992fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Informasi Pembayaran')]</value>
+      <webElementGuid>4a904d8c-1d7a-4295-a8a2-229a68165038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Unit'])[4]/following::a[1]</value>
+      <webElementGuid>88d91550-3198-427c-86ab-e914f873a044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download File'])[1]/following::a[2]</value>
+      <webElementGuid>db44f0fb-d83e-4ed7-9564-8dbdc0425125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>354acb01-d3b3-4a6a-b2f9-c6f51315c0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Layanan Nasabah'])[1]/preceding::a[1]</value>
+      <webElementGuid>1c945dcc-59ee-4bd5-9ba2-83b46149016d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informasi Pembayaran']/parent::*</value>
+      <webElementGuid>db300fd5-9144-451f-92ac-bbfc9eefe6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/msl/others/payment-information')]</value>
+      <webElementGuid>41409302-cf4a-4465-836f-22d30d760641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[4]</value>
+      <webElementGuid>b8343290-8953-4b28-90f9-6d1c5859fde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/msl/others/payment-information' and (text() = 'Informasi Pembayaran' or . = 'Informasi Pembayaran')]</value>
+      <webElementGuid>9c13d47a-d51d-4fe1-a6d8-54e608c98980</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

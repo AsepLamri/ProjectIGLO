@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rumah Sakit Rekanan</name>
+   <tag></tag>
+   <elementGuidId>3e2d7863-af76-44e4-b35a-cf7f2cf6d6a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3cecb84-5eb9-4b72-83e1-91ac2a19b096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-link text-dark fw-normal</value>
+      <webElementGuid>2895cf51-dbcd-4c51-80d1-9878013f4df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/msl/hospital-list</value>
+      <webElementGuid>bf31f212-d156-44d2-a0e3-c2695faee80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rumah Sakit Rekanan</value>
+      <webElementGuid>fb902b3f-fdab-46d4-a029-8c9bf72aa310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex flex-column align-item justify-content-between h-100&quot;]/div[2]/div[@class=&quot;container pt-5 mt-5&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;row g-3&quot;]/div[@class=&quot;col-md-8 mb-4&quot;]/div[@class=&quot;row g-2&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/a[@class=&quot;sl-link text-dark fw-normal&quot;]</value>
+      <webElementGuid>1d4c70e6-ffaa-4860-b90e-3c488c6362f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>4d624a7e-73e0-44c5-bfb5-8f62acdd3566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Rumah Sakit Rekanan')]</value>
+      <webElementGuid>0fc1048d-3441-4949-8810-c39f964fcba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Profil Saya'])[1]/following::a[1]</value>
+      <webElementGuid>b0d9daaf-8f00-4027-af01-3ac45dded130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanda Terima Ringkasan Polis'])[2]/following::a[2]</value>
+      <webElementGuid>40b5c7b6-7613-45df-95b9-b3a60ae0112b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download File'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a07ce64-0451-4aca-8653-439b6c1d8222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Unit'])[2]/preceding::a[2]</value>
+      <webElementGuid>0c7e8112-bb1b-4ad9-98dc-7d5c109310f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/msl/hospital-list')])[2]</value>
+      <webElementGuid>86525584-a54c-466c-b6ac-eeba9b4ccf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>2b6feb6f-c932-4eac-b2cd-e97e87214caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/msl/hospital-list' and (text() = 'Rumah Sakit Rekanan' or . = 'Rumah Sakit Rekanan')]</value>
+      <webElementGuid>c41de9af-536e-4506-bf65-3aa6b38473a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

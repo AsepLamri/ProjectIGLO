@@ -23,11 +23,11 @@ WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.switchToWindowTitle('CURA Healthcare Service')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_History'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_History'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/div_Make Appointment'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Make Appointment'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Go to Homepage'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
 

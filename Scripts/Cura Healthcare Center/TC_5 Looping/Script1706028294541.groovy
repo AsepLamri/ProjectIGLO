@@ -20,35 +20,34 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Cura Healthcare Center/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 for (def n : (0..2)) {
-    WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
+    WebUI.selectOptionByValue(findTestObject('null'), 
         'Hongkong CURA Healthcare Center', true)
 
     WebUI.click(findTestObject('Page_CURA Healthcare Service/input_hospital_readmission'))
 
     if (n == 0) {
-        WebUI.click(findTestObject('Baru/Page_CURA Healthcare Service/input_Medicare_programs'))
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Medicare_programs'))
 
         WebUI.takeScreenshotAsCheckpoint('Medicare')
     } else if (n == 1) {
-        WebUI.click(findTestObject('Baru/Page_CURA Healthcare Service/input_Medicaid_programs'))
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Medicaid_programs'))
 
         WebUI.takeScreenshotAsCheckpoint('Medicaid')
     } else {
-        WebUI.click(findTestObject('Baru/Page_CURA Healthcare Service/input_None_programs'))
+        WebUI.click(findTestObject('Page_CURA Healthcare Service/input_None_programs'))
 
         WebUI.takeScreenshotAsCheckpoint('None')
     }
     
-    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'))
+    WebUI.click(findTestObject('null'))
 
-    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/td_31'))
+    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_31'))
 
-    WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/textarea_Comment_comment'), 
-        '1234567890')
+    WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment'), '1234567890')
 
-    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/button_Book Appointment'))
+    WebUI.click(findTestObject('null'))
 
-    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Go to Homepage'))
+    WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
 }
 
 WebUI.closeBrowser()

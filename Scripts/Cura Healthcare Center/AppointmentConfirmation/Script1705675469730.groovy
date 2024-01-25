@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.openBrowser('')
 //
 //WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Hongkong CURA Healthcare Center', true)
 
 WebUI.takeScreenshotAsCheckpoint('Cek')
@@ -29,13 +29,13 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_programs'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_20'))
 
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Testing')
+WebUI.setText(findTestObject('null'), 'Testing')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+WebUI.click(findTestObject('null'))
 
 WebUI.takeScreenshotAsCheckpoint('Cek')
 

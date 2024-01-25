@@ -1,0 +1,65 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+My Sun Life Produk dan Layanan,Chrome 120.0.0.0,,,25-01-2024 09:47:38,25-01-2024 09:53:01,5m - 23.079s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Login,Chrome 120.0.0.0,,,25-01-2024 09:47:39,25-01-2024 09:48:29,49.853s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,25-01-2024 09:47:40,25-01-2024 09:47:44,4.436s,PASSED
+"navigateToUrl(""https://iglo-dev.ekreasi.com/msl/landing"")",Chrome 120.0.0.0,,,25-01-2024 09:47:44,25-01-2024 09:47:49,4.609s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_My Sun Life/span_Log In""))",Chrome 120.0.0.0,,,25-01-2024 09:47:49,25-01-2024 09:47:49,0.540s,PASSED
+"setText(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_identifier""), ""hari.sabintang@indocyber.id"")",Chrome 120.0.0.0,,,25-01-2024 09:47:49,25-01-2024 09:48:26,37.131s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_credentials.passcode""), ""VpPqM6/QKln4pL8M9Th8UA=="")",Chrome 120.0.0.0,,,25-01-2024 09:48:26,25-01-2024 09:48:27,0.526s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/span_eyeicon visibility-16 button-show""))",Chrome 120.0.0.0,,,25-01-2024 09:48:27,25-01-2024 09:48:27,0.507s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/label_Keep me signed in""))",Chrome 120.0.0.0,,,25-01-2024 09:48:27,25-01-2024 09:48:28,0.650s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_okta-dev-12789139 - Sign In/input_button button-primary""))",Chrome 120.0.0.0,,,25-01-2024 09:48:28,25-01-2024 09:48:29,0.708s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Download File,Chrome 120.0.0.0,,,25-01-2024 09:48:43,25-01-2024 09:48:43,0.731s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Daftar Rumah Sakit  My Sun Life/a_Download File""))",Chrome 120.0.0.0,,,25-01-2024 09:48:43,25-01-2024 09:48:43,0.686s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Haga Unit,Chrome 120.0.0.0,,,25-01-2024 09:48:45,25-01-2024 09:48:46,0.481s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Harga Unit  My Sun Life/a_Harga Unit""))",Chrome 120.0.0.0,,,25-01-2024 09:48:45,25-01-2024 09:48:46,0.462s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Informasi Pembayaran,Chrome 120.0.0.0,,,25-01-2024 09:48:48,25-01-2024 09:48:49,1.121s,FAILED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Harga Unit  My Sun Life/a_Informasi Pembayaran""))",Chrome 120.0.0.0,,,25-01-2024 09:48:48,25-01-2024 09:48:49,1.078s,FAILED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Riwayat Administrasi,Chrome 120.0.0.0,,,25-01-2024 09:48:49,25-01-2024 09:48:56,7.027s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_My Sun Life/a_Riwayat Administrasi""))",Chrome 120.0.0.0,,,25-01-2024 09:48:49,25-01-2024 09:48:54,4.811s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Administrasi  My Sun Life/select_Nomor PolisA60573511A002268521C02057_424516""), ""A002268521"", true)",Chrome 120.0.0.0,,,25-01-2024 09:48:54,25-01-2024 09:48:56,2.064s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Riwayat Klaim,Chrome 120.0.0.0,,,25-01-2024 09:48:56,25-01-2024 09:49:17,21.454s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Administrasi  My Sun Life/a_Riwayat Klaim""))",Chrome 120.0.0.0,,,25-01-2024 09:48:56,25-01-2024 09:49:00,3.751s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""A002268521"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:00,25-01-2024 09:49:01,1.763s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""105228262"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:01,25-01-2024 09:49:03,1.856s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""100261212"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:03,25-01-2024 09:49:06,2.328s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""C02057684"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:06,25-01-2024 09:49:08,2.088s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""010215211"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:08,25-01-2024 09:49:12,4.139s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""010080010"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:12,25-01-2024 09:49:14,1.848s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""129207255"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:14,25-01-2024 09:49:15,1.788s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Riwayat Klaim  My Sun Life/select_A60573511A002268521C0205768401021521_da13ea""), ""131892851"", true)",Chrome 120.0.0.0,,,25-01-2024 09:49:15,25-01-2024 09:49:17,1.806s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Riwayat Pembayaran,Chrome 120.0.0.0,,,25-01-2024 09:49:17,25-01-2024 09:52:44,3m - 26.839s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/a_Riwayat Pembayaran""))",Chrome 120.0.0.0,,,25-01-2024 09:49:17,25-01-2024 09:49:20,2.786s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_A002268521""))",Chrome 120.0.0.0,,,25-01-2024 09:49:20,25-01-2024 09:49:52,32.250s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_C02057684""))",Chrome 120.0.0.0,,,25-01-2024 09:49:52,25-01-2024 09:50:24,31.968s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010215211""))",Chrome 120.0.0.0,,,25-01-2024 09:50:24,25-01-2024 09:50:57,32.061s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010080010""))",Chrome 120.0.0.0,,,25-01-2024 09:50:57,25-01-2024 09:51:34,37.228s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_129207255""))",Chrome 120.0.0.0,,,25-01-2024 09:51:34,25-01-2024 09:52:07,32.912s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_131892851""))",Chrome 120.0.0.0,,,25-01-2024 09:52:07,25-01-2024 09:52:39,32.017s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/select_6 Bulan Terakhir12 Bulan Terakhir24 _d7c5df""), ""12"", true)",Chrome 120.0.0.0,,,25-01-2024 09:52:39,25-01-2024 09:52:40,1.649s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/select_6 Bulan Terakhir12 Bulan Terakhir24 _d7c5df""), ""24"", true)",Chrome 120.0.0.0,,,25-01-2024 09:52:40,25-01-2024 09:52:44,3.793s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Rumah Sakit Rekanan,Chrome 120.0.0.0,,,25-01-2024 09:52:44,25-01-2024 09:52:50,6.222s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Ubah Profil  My Sun Life/a_Rumah Sakit Rekanan""))",Chrome 120.0.0.0,,,25-01-2024 09:52:44,25-01-2024 09:52:47,3.134s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/My Sun Life/Page_Daftar Rumah Sakit  My Sun Life/select_PilihA60573511A002268521C02057684010_c71e63""), ""A002268521"", true)",Chrome 120.0.0.0,,,25-01-2024 09:52:47,25-01-2024 09:52:49,1.409s,PASSED
+"setText(findTestObject(""Object Repository/My Sun Life/Page_Daftar Rumah Sakit  My Sun Life/input_Nomor Polis_searchDisplay""), ""rs prima inti medika"")",Chrome 120.0.0.0,,,25-01-2024 09:52:49,25-01-2024 09:52:50,1.598s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Tanda Terima Ringkasan Polis,Chrome 120.0.0.0,,,25-01-2024 09:52:50,25-01-2024 09:52:55,4.926s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Daftar Polis Belum Terkonfirmasi  My Sun Life/a_Tanda Terima Ringkasan Polis""))",Chrome 120.0.0.0,,,25-01-2024 09:52:50,25-01-2024 09:52:55,4.844s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Produk dan Layanan/Ubah Profil Saya,Chrome 120.0.0.0,,,25-01-2024 09:52:55,25-01-2024 09:52:59,3.626s,PASSED
+"switchToWindowTitle(""Daftar Polis Belum Terkonfirmasi | My Sun Life"")",Chrome 120.0.0.0,,,25-01-2024 09:52:55,25-01-2024 09:52:55,0.044s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Daftar Polis Belum Terkonfirmasi  My Sun Life/a_Ubah Profil Saya""))",Chrome 120.0.0.0,,,25-01-2024 09:52:55,25-01-2024 09:52:58,2.983s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Ubah Profil  My Sun Life/button_Ubah Profil""))",Chrome 120.0.0.0,,,25-01-2024 09:52:58,25-01-2024 09:52:59,0.527s,PASSED
+,,,,,,,
+Test Cases/My Sun Life/Logout,Chrome 120.0.0.0,,,25-01-2024 09:52:59,25-01-2024 09:53:01,2.498s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/button_Semua Fitur""))",Chrome 120.0.0.0,,,25-01-2024 09:52:59,25-01-2024 09:53:00,0.620s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Beranda  My Sun Life/div_Pengaturan Aplikasi""))",Chrome 120.0.0.0,,,25-01-2024 09:53:00,25-01-2024 09:53:00,0.433s,PASSED
+"click(findTestObject(""Object Repository/My Sun Life/Page_Pengaturan Aplikasi  My Sun Life/small_Keluar Akun""))",Chrome 120.0.0.0,,,25-01-2024 09:53:00,25-01-2024 09:53:01,1.365s,PASSED

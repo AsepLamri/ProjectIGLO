@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_eyeicon visibility-16 button-show</name>
+   <tag></tag>
+   <elementGuidId>4a43adaa-6260-4aaa-92ee-6f36927f384e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form20']/div/div[3]/div[2]/div[2]/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.eyeicon.visibility-16.button-show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9bc15754-51dc-47c5-8b26-3a8d023fc9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>eyeicon visibility-16 button-show</value>
+      <webElementGuid>f2262a48-79bf-4ec1-a6be-8ccd61d8afeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form20&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]/div[@class=&quot;o-form-fieldset o-form-label-top&quot;]/div[@class=&quot;o-form-input&quot;]/span[@class=&quot;o-form-input-name-credentials.passcode o-form-control okta-form-input-field input-fix&quot;]/span[@class=&quot;password-toggle&quot;]/span[@class=&quot;eyeicon visibility-16 button-show&quot;]</value>
+      <webElementGuid>254bb785-094e-4e1b-8927-cd0f8194ac6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form20']/div/div[3]/div[2]/div[2]/span/span/span</value>
+      <webElementGuid>c4852cf9-0da5-4bce-bac3-9a226bf8622c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>3dc16fab-94d8-4a21-8e73-cb798231a6fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pengaturan Aplikasi</name>
+   <tag></tag>
+   <elementGuidId>655f36e4-01a0-490a-bd18-d9b63a19b0cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='itemMenu']/div[10]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf17e370-1105-4341-9fcc-99b6bbee98cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2</value>
+      <webElementGuid>056dd99e-46a0-4d5d-9c41-bd991a1e2ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengaturan Aplikasi</value>
+      <webElementGuid>81475da2-d39d-4f75-b129-0a276cd8ccd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemMenu&quot;)/div[@class=&quot;col-md-6 col-lg-3&quot;]/div[@class=&quot;my-2&quot;]/a[@class=&quot;sl-link fw-semibold fs-6 text-nowrap&quot;]/div[@class=&quot;py-2&quot;]</value>
+      <webElementGuid>8d11bdf8-e40b-4b10-8ab4-dc7db458e278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='itemMenu']/div[10]/div/a/div</value>
+      <webElementGuid>714e885f-430f-46df-9d42-804804e759fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Lainnya'])[1]/following::div[3]</value>
+      <webElementGuid>76005a71-0878-458f-b567-9acc521fddb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar Premi/Kontribusi'])[1]/following::div[6]</value>
+      <webElementGuid>c986e38f-84c5-4a02-9797-808d53343237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Modal'])[1]/preceding::div[1]</value>
+      <webElementGuid>45273114-af1b-4573-a62d-ac170ded2dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::div[1]</value>
+      <webElementGuid>7c1f2b79-8dc5-4ea4-b7c4-be4f63b8f661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengaturan Aplikasi']/parent::*</value>
+      <webElementGuid>0d4cd511-eb30-46a6-8fb1-f80660b6429c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/a/div</value>
+      <webElementGuid>249cbc36-6662-4741-a8e7-3a6a67d8dce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pengaturan Aplikasi' or . = 'Pengaturan Aplikasi')]</value>
+      <webElementGuid>b21736f4-5e03-4785-96c0-af97d048e1e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

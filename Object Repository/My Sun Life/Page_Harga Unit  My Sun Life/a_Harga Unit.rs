@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Harga Unit</name>
+   <tag></tag>
+   <elementGuidId>2c2e7842-d047-48c9-b658-4dddd1262d8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ba11945-85bd-4bd4-807a-cf8366d4347a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sl-link text-dark fw-normal fw-normal</value>
+      <webElementGuid>a9c9fe3f-6fd9-41f2-af71-f3dbe2941e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/msl/fund-price</value>
+      <webElementGuid>853e9ea7-bb1d-49bd-9d57-2551ddfd0e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Unit</value>
+      <webElementGuid>b6816769-9870-4e24-9646-bf66af867a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;d-flex flex-column align-item justify-content-between h-100&quot;]/div[2]/div[@class=&quot;container pt-5 mt-5&quot;]/div[@class=&quot;pt-4&quot;]/div[@class=&quot;row g-3&quot;]/div[@class=&quot;col-md-8 mb-4&quot;]/div[@class=&quot;row g-2&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;d-flex flex-column gap-2&quot;]/a[@class=&quot;sl-link text-dark fw-normal fw-normal&quot;]</value>
+      <webElementGuid>42389f69-a1e1-4882-9928-46724e0fac5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/a[3]</value>
+      <webElementGuid>8315a9f3-6036-45ff-8806-79e297f5af2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Harga Unit')]</value>
+      <webElementGuid>f0bb13fd-d5f5-4310-a535-6952ecd6775c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download File'])[1]/following::a[1]</value>
+      <webElementGuid>ea61daaf-a031-4024-8a53-f9cf001b6ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Sakit Rekanan'])[2]/following::a[2]</value>
+      <webElementGuid>48d0cb2c-f473-4249-9f3b-1fd30f5c51fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Pembayaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>0e6dbfa5-e457-4b21-83c1-27a6c0920cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[2]</value>
+      <webElementGuid>06288bc5-b759-46c9-8bd2-cd2f24c47519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/msl/fund-price')])[3]</value>
+      <webElementGuid>7d09a7f0-b538-41aa-9570-70ca32881bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[3]</value>
+      <webElementGuid>a2054436-fc2c-4312-a701-9357c6862b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/msl/fund-price' and (text() = 'Harga Unit' or . = 'Harga Unit')]</value>
+      <webElementGuid>69875e7d-af5a-4415-ae0e-94614c86f6ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

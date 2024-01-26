@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Looping" time="389.029" tests="1" failures="0" errors="0">
+   <testsuite name="Looping" tests="1" failures="0" errors="0" time="389.029" skipped="0" timestamp="26-01-2024T09:01:17" hostname="0767 - DESKTOP-SQ56SGT" id="Test Suites/Test Suites/Looping">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_090051\\Test Suites\\Looping\\20240126_090051"/>
+         <property name="logFiles" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_090051\\Test Suites\\Looping\\20240126_090051\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-cek.png, keyes\keyes-Medicare.png, keyes\keyes-Medicaid.png, keyes\keyes-None.png"/>
+         <property name="hostName" value="0767 - DESKTOP-SQ56SGT"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="172.16.0.2"/>
+         <property name="sessionId" value="a6260e483f6a88d5ae99036687f665ab"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Cura Healthcare Center/TC_5 Looping" time="388.05" classname="Test Cases/Cura Healthcare Center/TC_5 Looping" status="PASSED">
+         <system-out><![CDATA[26-01-2024T09:01:18 - [TEST_CASE][PASSED] - Test Cases/Cura Healthcare Center/TC_5 Looping: Test Cases/Cura Healthcare Center/TC_5 Looping
+
+26-01-2024T09:01:20 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Cura Healthcare Center/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Cura Healthcare Center/Login' successfully
+
+26-01-2024T09:01:21 - [TEST_CASE][PASSED] - Test Cases/Cura Healthcare Center/Login: Test Cases/Cura Healthcare Center/Login
+
+26-01-2024T09:01:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T09:01:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T09:01:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T09:01:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T09:01:34 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+26-01-2024T09:01:39 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+26-01-2024T09:01:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+26-01-2024T09:01:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Testing/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+26-01-2024T09:01:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Web Testing/Page_CURA Healthcare Service/input_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Web Testing/Page_CURA Healthcare Service/input_username'
+
+26-01-2024T09:01:46 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Web Testing/Page_CURA Healthcare Service/input_username'
+
+26-01-2024T09:01:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Web Testing/Page_CURA Healthcare Service/input_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Web Testing/Page_CURA Healthcare Service/input_password'
+
+26-01-2024T09:01:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Web Testing/Page_CURA Healthcare Service/input_password'
+
+26-01-2024T09:01:47 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("cek"): Taking screenshot successfully
+
+26-01-2024T09:01:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T09:01:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-cek.png]]
+
+26-01-2024T09:01:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login' is clicked on
+
+26-01-2024T09:01:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Web Testing/Page_CURA Healthcare Service/button_Login' is clicked on
+
+26-01-2024T09:01:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Cura Healthcare Center/Login' successfully
+
+26-01-2024T09:01:53 - [TEST_STEP][PASSED] - for (def n : (0..2)): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:01:53 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:01:57 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:01:57 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_hospital_readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:01:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:01:58 - [TEST_STEP][PASSED] - if (n == 0): Taking screenshot successfully
+
+26-01-2024T09:01:58 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Medicare_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicare_programs' is clicked on
+
+26-01-2024T09:01:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicare_programs' is clicked on
+
+26-01-2024T09:01:58 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Medicare"): Taking screenshot successfully
+
+26-01-2024T09:01:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T09:01:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Medicare.png]]
+
+26-01-2024T09:01:59 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Visit Date")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:01:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:01:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:02:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:02:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/textarea_Comment"), "Testing katalon studio"): Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:02:01 - [MESSAGE][PASSED] - Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:02:01 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn_Book App")): Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:02:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:02:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:02:36 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //section[@id='history']/div/div[3]/p/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T09:02:36 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'. Try using Self-healing.
+
+26-01-2024T09:02:40 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' was broken. Propose an alternative one: '//a[contains(text(),'Go to Homepage')]'.
+
+26-01-2024T09:02:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:02:49 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:03:21 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:03:21 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_hospital_readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:03:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:03:36 - [TEST_STEP][PASSED] - if (n == 0): null
+
+26-01-2024T09:03:36 - [TEST_STEP][PASSED] - else if (n == 1): Taking screenshot successfully
+
+26-01-2024T09:03:36 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+26-01-2024T09:03:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+26-01-2024T09:03:40 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Medicaid"): Taking screenshot successfully
+
+26-01-2024T09:03:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T09:03:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Medicaid.png]]
+
+26-01-2024T09:03:47 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Visit Date")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:04:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:04:06 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/textarea_Comment"), "Testing katalon studio"): Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:04:14 - [MESSAGE][PASSED] - Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:04:14 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn_Book App")): Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:04:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:04:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:04:54 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //section[@id='history']/div/div[3]/p/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T09:04:54 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'. Try using Self-healing.
+
+26-01-2024T09:04:58 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' was broken. Propose an alternative one: '//a[contains(text(),'Go to Homepage')]'.
+
+26-01-2024T09:05:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:05:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:05:25 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'  using regular expression
+
+26-01-2024T09:05:25 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_hospital_readmission")): Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:05:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+26-01-2024T09:05:28 - [TEST_STEP][PASSED] - if (n == 0): null
+
+26-01-2024T09:05:28 - [TEST_STEP][PASSED] - else if (n == 1): null
+
+26-01-2024T09:05:28 - [TEST_STEP][PASSED] - else: Taking screenshot successfully
+
+26-01-2024T09:05:28 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_None_programs")): Object: 'Object Repository/Page_CURA Healthcare Service/input_None_programs' is clicked on
+
+26-01-2024T09:05:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_None_programs' is clicked on
+
+26-01-2024T09:05:33 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("None"): Taking screenshot successfully
+
+26-01-2024T09:05:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T09:05:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-None.png]]
+
+26-01-2024T09:05:44 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/input_Visit Date")): Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_Visit Date' is clicked on
+
+26-01-2024T09:05:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/td_31")): Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:05:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_31' is clicked on
+
+26-01-2024T09:05:56 - [TEST_STEP][PASSED] - setText(findTestObject("Page_CURA Healthcare Service/textarea_Comment"), "Testing katalon studio"): Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:06:15 - [MESSAGE][PASSED] - Text 'Testing katalon studio' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_Comment'
+
+26-01-2024T09:06:15 - [TEST_STEP][PASSED] - click(findTestObject("Page_CURA Healthcare Service/btn_Book App")): Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:06:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/btn_Book App' is clicked on
+
+26-01-2024T09:06:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Go to Homepage")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:06:56 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //section[@id='history']/div/div[3]/p/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T09:06:56 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'. Try using Self-healing.
+
+26-01-2024T09:06:58 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' was broken. Propose an alternative one: '//a[contains(text(),'Go to Homepage')]'.
+
+26-01-2024T09:07:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Go to Homepage' is clicked on
+
+26-01-2024T09:07:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+26-01-2024T09:07:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T09:01:17 - [TEST_SUITE][PASSED] - Looping: Test Cases/Cura Healthcare Center/TC_5 Looping]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

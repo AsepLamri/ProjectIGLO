@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Looping,Chrome 120.0.0.0,,,26-01-2024 09:03:50,26-01-2024 09:08:12,4m - 22.464s,PASSED
+,,,,,,,
+Test Cases/Cura Healthcare Center/TC_5 Looping,Chrome 120.0.0.0,,,26-01-2024 09:03:51,26-01-2024 09:08:12,4m - 20.698s,PASSED
+"callTestCase(findTestCase(""Cura Healthcare Center/Login""), [:], STOP_ON_FAILURE)",Chrome 120.0.0.0,,,26-01-2024 09:03:56,26-01-2024 09:04:58,1m - 2.466s,PASSED
+for (def n : (0..2)),Chrome 120.0.0.0,,,26-01-2024 09:04:58,26-01-2024 09:08:01,3m - 2.916s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 09:08:01,26-01-2024 09:08:12,10.881s,PASSED

@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+E-Learning,Chrome 120.0.0.0,,,26-01-2024 15:13:08,26-01-2024 15:14:28,1m - 19.654s,FAILED
+,,,,,,,
+Test Cases/E-Learning/Login,Chrome 120.0.0.0,,,26-01-2024 15:13:08,26-01-2024 15:13:20,11.905s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 15:13:09,26-01-2024 15:13:11,2.120s,PASSED
+"navigateToUrl(""http://130.211.243.37:96/login"")",Chrome 120.0.0.0,,,26-01-2024 15:13:11,26-01-2024 15:13:15,4.479s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/input_email""), ""admin@indocyber.com"")",Chrome 120.0.0.0,,,26-01-2024 15:13:15,26-01-2024 15:13:16,0.812s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/input_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 120.0.0.0,,,26-01-2024 15:13:16,26-01-2024 15:13:17,0.477s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe""))",Chrome 120.0.0.0,,,26-01-2024 15:13:17,26-01-2024 15:13:17,0.359s,PASSED
+"takeScreenshotAsCheckpoint(""Login"")",Chrome 120.0.0.0,,,26-01-2024 15:13:17,26-01-2024 15:13:18,0.632s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login""))",Chrome 120.0.0.0,,,26-01-2024 15:13:18,26-01-2024 15:13:18,0.350s,PASSED
+"takeScreenshotAsCheckpoint(""Login"")",Chrome 120.0.0.0,,,26-01-2024 15:13:18,26-01-2024 15:13:20,2.385s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Add Event Management,Chrome 120.0.0.0,,,26-01-2024 15:13:20,26-01-2024 15:13:31,10.497s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management""))",Chrome 120.0.0.0,,,26-01-2024 15:13:20,26-01-2024 15:13:22,1.481s,PASSED
+"click(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah""))",Chrome 120.0.0.0,,,26-01-2024 15:13:22,26-01-2024 15:13:24,1.626s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title""), ""Test"")",Chrome 120.0.0.0,,,26-01-2024 15:13:24,26-01-2024 15:13:25,1.556s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date""), ""12/12/2023"")",Chrome 120.0.0.0,,,26-01-2024 15:13:25,26-01-2024 15:13:26,0.716s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime""), ""08:30"")",Chrome 120.0.0.0,,,26-01-2024 15:13:26,26-01-2024 15:13:27,0.697s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime""), ""17:30"")",Chrome 120.0.0.0,,,26-01-2024 15:13:27,26-01-2024 15:13:27,0.686s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession""))",Chrome 120.0.0.0,,,26-01-2024 15:13:27,26-01-2024 15:13:28,0.387s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession""), ""Pengujian API Dengan Katalon"")",Chrome 120.0.0.0,,,26-01-2024 15:13:28,26-01-2024 15:13:28,0.685s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location""), ""Jakarta"")",Chrome 120.0.0.0,,,26-01-2024 15:13:28,26-01-2024 15:13:29,0.677s,PASSED
+"takeScreenshotAsCheckpoint(""Input form"")",Chrome 120.0.0.0,,,26-01-2024 15:13:29,26-01-2024 15:13:29,0.512s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save""))",Chrome 120.0.0.0,,,26-01-2024 15:13:29,26-01-2024 15:13:30,0.408s,PASSED
+"takeScreenshotAsCheckpoint(""Sukses"")",Chrome 120.0.0.0,,,26-01-2024 15:13:30,26-01-2024 15:13:31,0.959s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Add Feedback Bank,Chrome 120.0.0.0,,,26-01-2024 15:14:28,26-01-2024 15:14:28,0.096s,FAILED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank""))",Chrome 120.0.0.0,,,26-01-2024 15:14:28,26-01-2024 15:14:28,0.078s,FAILED

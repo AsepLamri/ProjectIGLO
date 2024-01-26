@@ -199,6 +199,116 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_131892851_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange/Page_OrangeHRM/input_Nickname_oxd-input oxd-input--focus",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div[2]/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input.oxd-input.oxd-input--focus",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Orange/Page_OrangeHRM/input_Nickname_oxd-input oxd-input--focus_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange/Page_OrangeHRM/input_Password_password",
+      "brokenLocator": "//input[@name\u003d\u0027password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Orange/Page_OrangeHRM/input_Password_password_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange/Page_OrangeHRM/div_Attachments Add",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div/div[2]/div[3]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange/Page_OrangeHRM/Nickname",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div[2]/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "input.oxd-input.oxd-input--focus",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Orange/Page_OrangeHRM/Nickname_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Orange/Page_OrangeHRM/Nickname",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div[2]/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Orange/Page_OrangeHRM/Nickname_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/E-Learning/Page_Login  Elearning CMS/span_fe-eye",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[@id\u003d\u0027showPasswordLogin\u0027]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/E-Learning/Page_Login  Elearning CMS/span_fe-eye_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/a_Go to Homepage",
+      "brokenLocator": "//section[@id\u003d\u0027history\u0027]/div/div[3]/p/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Go to Homepage\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/a_Go to Homepage_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Bill Pay",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li[4]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Bill Pay\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Bill Pay_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Bill Pay/input_payee.name",
+      "brokenLocator": "//input[@name\u003d\u0027payee.name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Para Bank/Page_ParaBank  Bill Pay/input_payee.name_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/E-Learning/Page_Login  Elearning CMS/input_Email_email",
+      "brokenLocator": "admin@indocyber.com\r\n",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027email\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/E-Learning/Page_Login  Elearning CMS/input_Email_email_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027`\u0027])[2]/following::div[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel_position.png"
     }
   ]
 }

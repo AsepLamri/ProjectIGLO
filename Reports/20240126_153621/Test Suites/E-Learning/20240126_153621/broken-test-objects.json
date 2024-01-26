@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027`\u0027])[2]/following::div[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240126_153621/Test Suites/E-Learning/20240126_153621/Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel_position.png"
+    }
+  ]
+}

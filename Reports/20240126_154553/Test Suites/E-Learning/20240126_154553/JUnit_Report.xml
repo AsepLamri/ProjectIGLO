@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="E-Learning" time="63.11" tests="5" failures="0" errors="0">
+   <testsuite name="E-Learning" tests="5" failures="0" errors="0" time="63.11" skipped="0" timestamp="26-01-2024T15:46:02" hostname="0767 - DESKTOP-SQ56SGT" id="Test Suites/Test Suites/E-Learning">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_154553\\Test Suites\\E-Learning\\20240126_154553"/>
+         <property name="logFiles" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_154553\\Test Suites\\E-Learning\\20240126_154553\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-Input form.png, keyes\keyes-Sukses.png, keyes\keyes-bank.png, keyes\keyes-bank.png, keyes\keyes-Quiz.png, keyes\keyes-Quiz.png, keyes\keyes-Logout.png"/>
+         <property name="hostName" value="0767 - DESKTOP-SQ56SGT"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="172.16.0.2"/>
+         <property name="sessionId" value="19b728354cb8cf0022e6e862e0ba363f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/E-Learning/Login" time="12.001" classname="Test Cases/E-Learning/Login" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:46:02 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Login: Test Cases/E-Learning/Login
+
+26-01-2024T15:46:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T15:46:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T15:46:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T15:46:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T15:46:04 - [TEST_STEP][PASSED] - navigateToUrl("http://130.211.243.37:96/login"): Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:46:08 - [MESSAGE][PASSED] - Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:46:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_email"), "admin@indocyber.com"): Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:46:09 - [MESSAGE][PASSED] - Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:46:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:46:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:46:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:46:10 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:46:10 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:46:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]
+
+26-01-2024T15:46:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:46:11 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:46:11 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:46:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/E-Learning/Add Event Management" time="10.887" classname="Test Cases/E-Learning/Add Event Management" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:46:14 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Add Event Management: Test Cases/E-Learning/Add Event Management
+
+26-01-2024T15:46:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management' is clicked on
+
+26-01-2024T15:46:16 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management' is clicked on
+
+26-01-2024T15:46:16 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah' is clicked on
+
+26-01-2024T15:46:17 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah' is clicked on
+
+26-01-2024T15:46:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title"), "Test"): Text 'Test' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title'
+
+26-01-2024T15:46:19 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title'
+
+26-01-2024T15:46:19 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date"), "12/12/2023"): Text '12/12/2023' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date'
+
+26-01-2024T15:46:19 - [MESSAGE][PASSED] - Text '12/12/2023' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date'
+
+26-01-2024T15:46:19 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime"), "08:30"): Text '08:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime'
+
+26-01-2024T15:46:20 - [MESSAGE][PASSED] - Text '08:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime'
+
+26-01-2024T15:46:20 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime"), "17:30"): Text '17:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime'
+
+26-01-2024T15:46:21 - [MESSAGE][PASSED] - Text '17:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime'
+
+26-01-2024T15:46:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession' is clicked on
+
+26-01-2024T15:46:21 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession' is clicked on
+
+26-01-2024T15:46:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession"), "Pengujian API Dengan Katalon"): Text 'Pengujian API Dengan Katalon' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession'
+
+26-01-2024T15:46:22 - [MESSAGE][PASSED] - Text 'Pengujian API Dengan Katalon' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession'
+
+26-01-2024T15:46:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location'
+
+26-01-2024T15:46:22 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location'
+
+26-01-2024T15:46:22 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Input form"): Taking screenshot successfully
+
+26-01-2024T15:46:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Input form.png]]
+
+26-01-2024T15:46:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:46:23 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Sukses"): Taking screenshot successfully
+
+26-01-2024T15:46:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Sukses.png]]
+
+26-01-2024T15:46:24 - [TEST_STEP][PASSED] - refresh(STOP_ON_FAILURE): Refresh successfully
+
+26-01-2024T15:46:25 - [MESSAGE][PASSED] - Refresh successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/E-Learning/Add Feedback Bank" time="14.148" classname="Test Cases/E-Learning/Add Feedback Bank" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:46:25 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Add Feedback Bank: Test Cases/E-Learning/Add Feedback Bank
+
+26-01-2024T15:46:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank")): Object: 'Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank' is clicked on
+
+26-01-2024T15:46:28 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank' is clicked on
+
+26-01-2024T15:46:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226' is clicked on
+
+26-01-2024T15:46:30 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226' is clicked on
+
+26-01-2024T15:46:30 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --"), STOP_ON_FAILURE): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:46:31 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:46:31 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), "ISO"): Text 'ISO' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:32 - [MESSAGE][PASSED] - Text 'ISO' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:32 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:33 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:33 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --"), STOP_ON_FAILURE): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:46:33 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:46:33 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), "ISO 9001"): Text 'ISO 9001' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:34 - [MESSAGE][PASSED] - Text 'ISO 9001' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:35 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title"), "Test"): Text 'Test' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title'
+
+26-01-2024T15:46:36 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title'
+
+26-01-2024T15:46:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive' is clicked on
+
+26-01-2024T15:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive' is clicked on
+
+26-01-2024T15:46:37 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("bank"): Taking screenshot successfully
+
+26-01-2024T15:46:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-bank.png]]
+
+26-01-2024T15:46:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:46:37 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:46:37 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("bank"): Taking screenshot successfully
+
+26-01-2024T15:46:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-bank.png]]
+
+26-01-2024T15:46:38 - [TEST_STEP][PASSED] - refresh(): Refresh successfully
+
+26-01-2024T15:46:39 - [MESSAGE][PASSED] - Refresh successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/E-Learning/Add Master Question" time="21.945" classname="Test Cases/E-Learning/Add Master Question" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:46:39 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Add Master Question: Test Cases/E-Learning/Add Master Question
+
+26-01-2024T15:46:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/span_Master Question")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/span_Master Question' is clicked on
+
+26-01-2024T15:46:42 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/span_Master Question' is clicked on
+
+26-01-2024T15:46:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Tambah                              _531150")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Tambah                              _531150' is clicked on
+
+26-01-2024T15:46:45 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Tambah                              _531150' is clicked on
+
+26-01-2024T15:46:45 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Level --")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:46:46 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:46:46 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), "Level 2"): Text 'Level 2' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:47 - [MESSAGE][PASSED] - Text 'Level 2' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:48 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:48 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Module --")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:46:48 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:46:48 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), "MDL 1"): Text 'MDL 1' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:49 - [MESSAGE][PASSED] - Text 'MDL 1' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:50 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Chapter --")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Chapter --' is clicked on
+
+26-01-2024T15:46:51 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Chapter --' is clicked on
+
+26-01-2024T15:46:51 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), "CPT 1"): Text 'CPT 1' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:52 - [MESSAGE][PASSED] - Text 'CPT 1' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:52 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:53 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:46:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Question_desc"), "Pengujian API Dengan Katalon
+Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian API.
+
+Anda akan mempelajari cara menggunakan solusi kode rendah Katalon untuk membuat permintaan API dengan cepat dan menggabungkannya ke dalam kasus pengujian otomatis untuk pengujian REST dan SOAP API. Kemudian, Anda akan terus mempelajari cara menerapkan teknik yang lebih"): Text 'Pengujian API Dengan Katalon
+Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian API.
+
+Anda akan mempelajari cara menggunakan solusi kode rendah Katalon untuk membuat permintaan API dengan cepat dan menggabungkannya ke dalam kasus pengujian otomatis untuk pengujian REST dan SOAP API. Kemudian, Anda akan terus mempelajari cara menerapkan teknik yang lebih' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Question_desc'
+
+26-01-2024T15:46:54 - [MESSAGE][PASSED] - Text 'Pengujian API Dengan Katalon
+Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian API.
+
+Anda akan mempelajari cara menggunakan solusi kode rendah Katalon untuk membuat permintaan API dengan cepat dan menggabungkannya ke dalam kasus pengujian otomatis untuk pengujian REST dan SOAP API. Kemudian, Anda akan terus mempelajari cara menerapkan teknik yang lebih' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Question_desc'
+
+26-01-2024T15:46:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option A_optA"), "katalonc -noSplash -runMode=console -projectPath="C:\Users\0767\Katalon Studio\ProjectIGLO\ProjectIGLO.prj" -maxFailedTests=3 -retry=0 -testSuitePath="Test Suites/Test Suites/Appointment" -browserType="Chrome" -executionProfile="default" -apiKey="30a646a5-6c14-41df-9a8e-71bbd381ccf6" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true"): Text 'katalonc -noSplash -runMode=console -projectPath="C:\Users\0767\Katalon Studio\ProjectIGLO\ProjectIGLO.prj" -maxFailedTests=3 -retry=0 -testSuitePath="Test Suites/Test Suites/Appointment" -browserType="Chrome" -executionProfile="default" -apiKey="30a646a5-6c14-41df-9a8e-71bbd381ccf6" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option A_optA'
+
+26-01-2024T15:46:55 - [MESSAGE][PASSED] - Text 'katalonc -noSplash -runMode=console -projectPath="C:\Users\0767\Katalon Studio\ProjectIGLO\ProjectIGLO.prj" -maxFailedTests=3 -retry=0 -testSuitePath="Test Suites/Test Suites/Appointment" -browserType="Chrome" -executionProfile="default" -apiKey="30a646a5-6c14-41df-9a8e-71bbd381ccf6" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option A_optA'
+
+26-01-2024T15:46:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option B_optB"), "Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda."): Text 'Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option B_optB'
+
+26-01-2024T15:46:56 - [MESSAGE][PASSED] - Text 'Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option B_optB'
+
+26-01-2024T15:46:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option D_optD"), "Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform."): Text 'Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option D_optD'
+
+26-01-2024T15:46:57 - [MESSAGE][PASSED] - Text 'Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option D_optD'
+
+26-01-2024T15:46:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_A_correctAnswer")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_A_correctAnswer' is clicked on
+
+26-01-2024T15:46:57 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_A_correctAnswer' is clicked on
+
+26-01-2024T15:46:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Please choose one_isActive")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Please choose one_isActive' is clicked on
+
+26-01-2024T15:46:58 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Please choose one_isActive' is clicked on
+
+26-01-2024T15:46:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option C_optC"), "Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web."): Text 'Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option C_optC'
+
+26-01-2024T15:46:59 - [MESSAGE][PASSED] - Text 'Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web.' is set on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option C_optC'
+
+26-01-2024T15:46:59 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Quiz"): Taking screenshot successfully
+
+26-01-2024T15:46:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:46:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Quiz.png]]
+
+26-01-2024T15:46:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Save")): Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:47:00 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:47:00 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Quiz"): Taking screenshot successfully
+
+26-01-2024T15:47:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:47:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Quiz.png]]
+
+26-01-2024T15:47:01 - [TEST_STEP][PASSED] - refresh(): Refresh successfully
+
+26-01-2024T15:47:01 - [MESSAGE][PASSED] - Refresh successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/E-Learning/Logout" time="3.86" classname="Test Cases/E-Learning/Logout" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:47:01 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Logout: Test Cases/E-Learning/Logout
+
+26-01-2024T15:47:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Home  Elearning CMS/button_Log out")): Object: 'Object Repository/E-Learning/Page_Home  Elearning CMS/button_Log out' is clicked on
+
+26-01-2024T15:47:04 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Home  Elearning CMS/button_Log out' is clicked on
+
+26-01-2024T15:47:04 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Logout"): Taking screenshot successfully
+
+26-01-2024T15:47:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:47:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Logout.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T15:46:02 - [TEST_SUITE][PASSED] - E-Learning: Test Cases/E-Learning/Logout]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

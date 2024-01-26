@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_A002268521",
+      "brokenLocator": "//div[@id\u003d\u0027item-227ea97d-f33e-4f15-bcec-eb8e041d5203\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027A002268521\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_A002268521_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_C02057684",
+      "brokenLocator": "//div[@id\u003d\u0027item-32385710-8a02-4bb9-8697-78ba30dcbb31\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027C02057684\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_C02057684_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010215211",
+      "brokenLocator": "//div[@id\u003d\u0027item-0e997084-0b52-4c05-9e74-9368c6ddbc5f\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027010215211\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010215211_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010080010",
+      "brokenLocator": "//div[@id\u003d\u0027item-325e732b-bd46-4361-817e-df798cd4067d\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027010080010\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_010080010_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_129207255",
+      "brokenLocator": "//div[@id\u003d\u0027item-3b19c0ae-5d2f-432a-b610-3b9d93ef1e2f\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027129207255\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_129207255_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_131892851",
+      "brokenLocator": "//div[@id\u003d\u0027item-5a5b6c45-99a8-4d4a-8d06-15d12abd9423\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027131892851\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_135912/Test Suites/My Sun Life Produk dan Layanan/20240125_135912/Object Repository/My Sun Life/Page_Informasi Riwayat Pembayaran  My Sun Life/a_131892851_link.png"
+    }
+  ]
+}

@@ -19,27 +19,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f0d99b3c-d4a3-4871-bcb3-87979dbcafc6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/My Sun Life/Produk dan Layanan/Download File</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e724bffe-a818-4e8b-ba51-5b60c6fa6a10</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/My Sun Life/Produk dan Layanan/Haga Unit</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d710fc6e-ec68-4974-8bd1-4454e88837ff</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/My Sun Life/Produk dan Layanan/Informasi Pembayaran</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>889d0819-5d02-42c1-8bff-a0f4edd0af49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

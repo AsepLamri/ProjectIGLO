@@ -20,22 +20,24 @@ import org.openqa.selenium.Keys as Keys
 //WebUI.openBrowser('')
 //
 //WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
-WebUI.selectOptionByValue(findTestObject('null'), 
+WebUI.callTestCase(findTestCase('Cura Healthcare Center/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.selectOptionByValue(findTestObject('Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'), 
     'Hongkong CURA Healthcare Center', true)
 
 WebUI.takeScreenshotAsCheckpoint('Cek')
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_hospital_readmission'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_programs'))
+WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Medicaid_programs'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Visit Date'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_20'))
 
-WebUI.setText(findTestObject('null'), 'Testing')
+WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment'), 'Testing')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Page_CURA Healthcare Service/btn_Book App'))
 
 WebUI.takeScreenshotAsCheckpoint('Cek')
 

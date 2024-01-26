@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="E-Learning" time="371.009" tests="2" failures="1" errors="0">
+   <testsuite name="E-Learning" tests="2" failures="1" errors="0" time="371.009" skipped="0" timestamp="26-01-2024T15:36:29" hostname="0767 - DESKTOP-SQ56SGT" id="Test Suites/Test Suites/E-Learning">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621"/>
+         <property name="logFiles" value="C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-Input form.png, keyes\keyes-Sukses.png, C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\1706258277422.png, keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-Input form.png, keyes\keyes-Sukses.png, C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\1706258362813.png, keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-Input form.png, keyes\keyes-Sukses.png, C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\1706258446467.png, keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-Input form.png, keyes\keyes-Sukses.png, C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\1706258530977.png, keyes\keyes-Login.png, keyes\keyes-Login.png, keyes\keyes-bank.png, keyes\keyes-bank.png"/>
+         <property name="hostName" value="0767 - DESKTOP-SQ56SGT"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="172.16.0.2"/>
+         <property name="sessionId" value="25a2e9a093aed7b5baffd85da68fd686"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/E-Learning/Add Event Management" time="84.519" classname="Test Cases/E-Learning/Add Event Management" status="FAILED">
+         <failure type="FAILED" message="Test Cases/E-Learning/Add Event Management FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)&#xa;	at Add Event Management.run(Add Event Management:49)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;dataTables_scroll&quot;>...&lt;/div> is not clickable at point (653, 477). Other element would receive the click: &lt;div class=&quot;swal2-container swal2-center swal2-backdrop-show&quot; style=&quot;overflow-y: auto;&quot;>...&lt;/div>&#xa;  (Session info: chrome=120.0.6099.227)&#xa;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'&#xa;System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'&#xa;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#xa;Session ID: a24eef9966d87314ce675873abcf0712&#xa;	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xa;	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xa;	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)&#xa;	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)&#xa;	at org.openqa.selenium.WebElement$click.call(Unknown Source)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[26-01-2024T15:40:46 - [TEST_CASE][FAILED] - Test Cases/E-Learning/Add Event Management: Test Cases/E-Learning/Add Event Management FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a24eef9966d87314ce675873abcf0712
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+26-01-2024T15:40:46 - [TEST_STEP][PASSED] - callTestCase(findTestCase("E-Learning/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/E-Learning/Login' successfully
+
+26-01-2024T15:40:46 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Login: Test Cases/E-Learning/Login
+
+26-01-2024T15:40:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T15:40:46 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T15:40:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T15:40:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T15:40:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T15:40:47 - [TEST_STEP][PASSED] - navigateToUrl("http://130.211.243.37:96/login"): Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:40:52 - [MESSAGE][PASSED] - Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:40:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_email"), "admin@indocyber.com"): Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:40:52 - [MESSAGE][PASSED] - Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:40:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:40:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:40:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:40:53 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:40:53 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:40:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:40:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]
+
+26-01-2024T15:40:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:40:54 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:40:54 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:40:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:40:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]
+
+26-01-2024T15:40:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/E-Learning/Login' successfully
+
+26-01-2024T15:40:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management' is clicked on
+
+26-01-2024T15:40:58 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management' is clicked on
+
+26-01-2024T15:40:58 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah' is clicked on
+
+26-01-2024T15:41:00 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah' is clicked on
+
+26-01-2024T15:41:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title"), "Test"): Text 'Test' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title'
+
+26-01-2024T15:41:01 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title'
+
+26-01-2024T15:41:01 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date"), "12/12/2023"): Text '12/12/2023' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date'
+
+26-01-2024T15:41:02 - [MESSAGE][PASSED] - Text '12/12/2023' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date'
+
+26-01-2024T15:41:02 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime"), "08:30"): Text '08:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime'
+
+26-01-2024T15:41:02 - [MESSAGE][PASSED] - Text '08:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime'
+
+26-01-2024T15:41:02 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime"), "17:30"): Text '17:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime'
+
+26-01-2024T15:41:03 - [MESSAGE][PASSED] - Text '17:30' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime'
+
+26-01-2024T15:41:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession' is clicked on
+
+26-01-2024T15:41:03 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession' is clicked on
+
+26-01-2024T15:41:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession"), "Pengujian API Dengan Katalon"): Text 'Pengujian API Dengan Katalon' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession'
+
+26-01-2024T15:41:04 - [MESSAGE][PASSED] - Text 'Pengujian API Dengan Katalon' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession'
+
+26-01-2024T15:41:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location'
+
+26-01-2024T15:41:05 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location'
+
+26-01-2024T15:41:05 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Input form"): Taking screenshot successfully
+
+26-01-2024T15:41:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:41:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Input form.png]]
+
+26-01-2024T15:41:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save")): Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:41:06 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:41:06 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Sukses"): Taking screenshot successfully
+
+26-01-2024T15:41:07 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:41:07 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Sukses.png]]
+
+26-01-2024T15:41:07 - [TEST_STEP][FAILED] - click(findTestObject("E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel")): Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a24eef9966d87314ce675873abcf0712
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1706241000262.run(Script1706241000262.groovy:49)
+	... 18 more
+)
+
+26-01-2024T15:41:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[4]'. Please recheck the objects properties to make sure the desired element is located. 
+
+26-01-2024T15:41:38 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'. Try using Self-healing.
+
+26-01-2024T15:41:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel' was broken. Propose an alternative one: '//div[4]'.
+
+26-01-2024T15:42:11 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a24eef9966d87314ce675873abcf0712
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Script1706241000262.run(Script1706241000262.groovy:49)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\0767\\Katalon Studio\\ProjectIGLO\\Reports\\20240126_153621\\Test Suites\\E-Learning\\20240126_153621\\1706258530977.png]]]]></system-out>
+         <system-err><![CDATA[26-01-2024T15:40:46 - [TEST_CASE][FAILED] - Test Cases/E-Learning/Add Event Management: Test Cases/E-Learning/Add Event Management FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61915}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a24eef9966d87314ce675873abcf0712
+	at jdk.internal.reflect.GeneratedConstructorAccessor28.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor22.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/E-Learning/Add Feedback Bank" time="20.994" classname="Test Cases/E-Learning/Add Feedback Bank" status="PASSED">
+         <system-out><![CDATA[26-01-2024T15:42:19 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Add Feedback Bank: Test Cases/E-Learning/Add Feedback Bank
+
+26-01-2024T15:42:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("E-Learning/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/E-Learning/Login' successfully
+
+26-01-2024T15:42:19 - [TEST_CASE][PASSED] - Test Cases/E-Learning/Login: Test Cases/E-Learning/Login
+
+26-01-2024T15:42:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+26-01-2024T15:42:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+26-01-2024T15:42:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+26-01-2024T15:42:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+26-01-2024T15:42:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+26-01-2024T15:42:20 - [TEST_STEP][PASSED] - navigateToUrl("http://130.211.243.37:96/login"): Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:42:23 - [MESSAGE][PASSED] - Navigate to 'http://130.211.243.37:96/login' successfully
+
+26-01-2024T15:42:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_email"), "admin@indocyber.com"): Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:42:24 - [MESSAGE][PASSED] - Text 'admin@indocyber.com' is set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_email'
+
+26-01-2024T15:42:24 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:42:24 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/E-Learning/Page_Login  Elearning CMS/input_password'
+
+26-01-2024T15:42:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:42:25 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe' is clicked on
+
+26-01-2024T15:42:25 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:42:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:42:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]
+
+26-01-2024T15:42:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login")): Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:42:25 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login' is clicked on
+
+26-01-2024T15:42:25 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Login"): Taking screenshot successfully
+
+26-01-2024T15:42:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:42:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Login.png]]
+
+26-01-2024T15:42:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/E-Learning/Login' successfully
+
+26-01-2024T15:42:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank")): Object: 'Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank' is clicked on
+
+26-01-2024T15:42:29 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank' is clicked on
+
+26-01-2024T15:42:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226' is clicked on
+
+26-01-2024T15:42:32 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226' is clicked on
+
+26-01-2024T15:42:32 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --"), STOP_ON_FAILURE): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --' is clicked on
+
+26-01-2024T15:42:33 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), "ISO"): Text 'ISO' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:34 - [MESSAGE][PASSED] - Text 'ISO' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:34 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:34 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:34 - [TEST_STEP][PASSED] - click(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --"), STOP_ON_FAILURE): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:42:35 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --' is clicked on
+
+26-01-2024T15:42:35 - [TEST_STEP][PASSED] - setText(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), "ISO 9001"): Text 'ISO 9001' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:36 - [MESSAGE][PASSED] - Text 'ISO 9001' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:37 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field'
+
+26-01-2024T15:42:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title"), "Test"): Text 'Test' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title'
+
+26-01-2024T15:42:38 - [MESSAGE][PASSED] - Text 'Test' is set on object 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title'
+
+26-01-2024T15:42:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive' is clicked on
+
+26-01-2024T15:42:38 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive' is clicked on
+
+26-01-2024T15:42:38 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("bank"): Taking screenshot successfully
+
+26-01-2024T15:42:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:42:39 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-bank.png]]
+
+26-01-2024T15:42:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save")): Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:42:39 - [MESSAGE][PASSED] - Object: 'Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save' is clicked on
+
+26-01-2024T15:42:39 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("bank"): Taking screenshot successfully
+
+26-01-2024T15:42:40 - [MESSAGE][INFO] - 0 hidden object(s)
+
+26-01-2024T15:42:40 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-bank.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T15:36:29 - [TEST_SUITE][FAILED] - E-Learning: Test Cases/E-Learning/Add Event Management FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61499}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a9cb4589e91bc1de8f5915dd32b963d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[26-01-2024T15:36:29 - [TEST_SUITE][FAILED] - E-Learning: Test Cases/E-Learning/Add Event Management FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/div_Data berhasil disimpanOKNoCancel'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at Add Event Management.run(Add Event Management:49)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706258181692.run(TempTestSuite1706258181692.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="dataTables_scroll">...</div> is not clickable at point (653, 477). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=120.0.6099.227)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-SQ56SGT', ip: '172.16.0.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.227, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\0767\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61499}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a9cb4589e91bc1de8f5915dd32b963d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

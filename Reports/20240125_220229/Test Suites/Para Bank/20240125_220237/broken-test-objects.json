@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/ul/li[2]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_220229/Test Suites/Para Bank/20240125_220237/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Accounts Overview_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Bill Pay",
+      "brokenLocator": "//div[@id\u003d\u0027leftPanel\u0027]/ul/li[4]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Bill Pay\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_220229/Test Suites/Para Bank/20240125_220237/Object Repository/Para Bank/Page_ParaBank  Accounts Overview/a_Bill Pay_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Para Bank/Page_ParaBank  Bill Pay/input_payee.name",
+      "brokenLocator": "//input[@name\u003d\u0027payee.name\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240125_220229/Test Suites/Para Bank/20240125_220237/Object Repository/Para Bank/Page_ParaBank  Bill Pay/input_payee.name_position.png"
+    }
+  ]
+}

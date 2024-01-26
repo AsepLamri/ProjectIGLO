@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Cura Healthcare Center/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 for (def n : (0..2)) {
-    WebUI.selectOptionByValue(findTestObject('null'), 
+    WebUI.selectOptionByValue(findTestObject('Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center                            Hongkong CURA Healthcare Center                            Seoul CURA Healthcare Center'), 
         'Hongkong CURA Healthcare Center', true)
 
     WebUI.click(findTestObject('Page_CURA Healthcare Service/input_hospital_readmission'))
@@ -39,13 +39,13 @@ for (def n : (0..2)) {
         WebUI.takeScreenshotAsCheckpoint('None')
     }
     
-    WebUI.click(findTestObject('null'))
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/input_Visit Date'))
 
     WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_31'))
 
-    WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment'), '1234567890')
+    WebUI.setText(findTestObject('Page_CURA Healthcare Service/textarea_Comment'), 'Testing katalon studio')
 
-    WebUI.click(findTestObject('null'))
+    WebUI.click(findTestObject('Page_CURA Healthcare Service/btn_Book App'))
 
     WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
 }

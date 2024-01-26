@@ -1,0 +1,74 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+E-Learning,Chrome 120.0.0.0,,,26-01-2024 15:46:02,26-01-2024 15:47:05,1m - 3.110s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Login,Chrome 120.0.0.0,,,26-01-2024 15:46:02,26-01-2024 15:46:14,12.001s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 15:46:02,26-01-2024 15:46:04,2.173s,PASSED
+"navigateToUrl(""http://130.211.243.37:96/login"")",Chrome 120.0.0.0,,,26-01-2024 15:46:04,26-01-2024 15:46:08,4.100s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/input_email""), ""admin@indocyber.com"")",Chrome 120.0.0.0,,,26-01-2024 15:46:08,26-01-2024 15:46:09,0.784s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/input_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 120.0.0.0,,,26-01-2024 15:46:09,26-01-2024 15:46:10,0.403s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/inputrememberMe""))",Chrome 120.0.0.0,,,26-01-2024 15:46:10,26-01-2024 15:46:10,0.376s,PASSED
+"takeScreenshotAsCheckpoint(""Login"")",Chrome 120.0.0.0,,,26-01-2024 15:46:10,26-01-2024 15:46:11,0.656s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Login  Elearning CMS/button_Login""))",Chrome 120.0.0.0,,,26-01-2024 15:46:11,26-01-2024 15:46:11,0.362s,PASSED
+"takeScreenshotAsCheckpoint(""Login"")",Chrome 120.0.0.0,,,26-01-2024 15:46:11,26-01-2024 15:46:14,2.826s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Add Event Management,Chrome 120.0.0.0,,,26-01-2024 15:46:14,26-01-2024 15:46:25,10.887s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/a_Event Management""))",Chrome 120.0.0.0,,,26-01-2024 15:46:14,26-01-2024 15:46:16,1.568s,PASSED
+"click(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/button_Tambah""))",Chrome 120.0.0.0,,,26-01-2024 15:46:16,26-01-2024 15:46:17,1.653s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Title_title""), ""Test"")",Chrome 120.0.0.0,,,26-01-2024 15:46:17,26-01-2024 15:46:19,1.526s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_Date_date""), ""12/12/2023"")",Chrome 120.0.0.0,,,26-01-2024 15:46:19,26-01-2024 15:46:19,0.640s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_Start Time_startTime""), ""08:30"")",Chrome 120.0.0.0,,,26-01-2024 15:46:19,26-01-2024 15:46:20,0.694s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Offline Training  Elearning CMS/input_End Time_endTime""), ""17:30"")",Chrome 120.0.0.0,,,26-01-2024 15:46:20,26-01-2024 15:46:21,0.638s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession""))",Chrome 120.0.0.0,,,26-01-2024 15:46:21,26-01-2024 15:46:21,0.341s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Link of the session_linkSession""), ""Pengujian API Dengan Katalon"")",Chrome 120.0.0.0,,,26-01-2024 15:46:21,26-01-2024 15:46:22,0.626s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/input_Location_location""), ""Jakarta"")",Chrome 120.0.0.0,,,26-01-2024 15:46:22,26-01-2024 15:46:22,0.658s,PASSED
+"takeScreenshotAsCheckpoint(""Input form"")",Chrome 120.0.0.0,,,26-01-2024 15:46:22,26-01-2024 15:46:23,0.447s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Offline Training  Elearning CMS/button_Save""))",Chrome 120.0.0.0,,,26-01-2024 15:46:23,26-01-2024 15:46:23,0.337s,PASSED
+"takeScreenshotAsCheckpoint(""Sukses"")",Chrome 120.0.0.0,,,26-01-2024 15:46:23,26-01-2024 15:46:24,1.189s,PASSED
+refresh(STOP_ON_FAILURE),Chrome 120.0.0.0,,,26-01-2024 15:46:24,26-01-2024 15:46:25,0.426s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Add Feedback Bank,Chrome 120.0.0.0,,,26-01-2024 15:46:25,26-01-2024 15:46:39,14.148s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master User Elearning  Elearning CMS/span_Feedback Bank""))",Chrome 120.0.0.0,,,26-01-2024 15:46:25,26-01-2024 15:46:28,2.914s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Tambah                              _c47226""))",Chrome 120.0.0.0,,,26-01-2024 15:46:28,26-01-2024 15:46:30,1.640s,PASSED
+"click(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Level --""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,26-01-2024 15:46:30,26-01-2024 15:46:31,1.357s,PASSED
+"setText(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field""), ""ISO"")",Chrome 120.0.0.0,,,26-01-2024 15:46:31,26-01-2024 15:46:32,1.140s,PASSED
+"sendKeys(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,26-01-2024 15:46:32,26-01-2024 15:46:33,0.712s,PASSED
+"click(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/span_-- Choose Module --""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,26-01-2024 15:46:33,26-01-2024 15:46:33,0.571s,PASSED
+"setText(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field""), ""ISO 9001"")",Chrome 120.0.0.0,,,26-01-2024 15:46:33,26-01-2024 15:46:34,1.064s,PASSED
+"sendKeys(findTestObject(""E-Learning/Page_Feedback Bank  Elearning CMS/input_Save_select2-search__field""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,26-01-2024 15:46:34,26-01-2024 15:46:35,0.988s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_title""), ""Test"")",Chrome 120.0.0.0,,,26-01-2024 15:46:35,26-01-2024 15:46:36,0.873s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/input_Title_isActive""))",Chrome 120.0.0.0,,,26-01-2024 15:46:36,26-01-2024 15:46:37,0.351s,PASSED
+"takeScreenshotAsCheckpoint(""bank"")",Chrome 120.0.0.0,,,26-01-2024 15:46:37,26-01-2024 15:46:37,0.484s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Feedback Bank  Elearning CMS/button_Save""))",Chrome 120.0.0.0,,,26-01-2024 15:46:37,26-01-2024 15:46:37,0.327s,PASSED
+"takeScreenshotAsCheckpoint(""bank"")",Chrome 120.0.0.0,,,26-01-2024 15:46:37,26-01-2024 15:46:38,0.984s,PASSED
+refresh(),Chrome 120.0.0.0,,,26-01-2024 15:46:38,26-01-2024 15:46:39,0.560s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Add Master Question,Chrome 120.0.0.0,,,26-01-2024 15:46:39,26-01-2024 15:47:01,21.945s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/span_Master Question""))",Chrome 120.0.0.0,,,26-01-2024 15:46:39,26-01-2024 15:46:42,3.223s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Tambah                              _531150""))",Chrome 120.0.0.0,,,26-01-2024 15:46:42,26-01-2024 15:46:45,2.658s,PASSED
+"click(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Level --""))",Chrome 120.0.0.0,,,26-01-2024 15:46:45,26-01-2024 15:46:46,0.675s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), ""Level 2"")",Chrome 120.0.0.0,,,26-01-2024 15:46:46,26-01-2024 15:46:47,1.187s,PASSED
+"sendKeys(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,26-01-2024 15:46:47,26-01-2024 15:46:48,0.888s,PASSED
+"click(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Module --""))",Chrome 120.0.0.0,,,26-01-2024 15:46:48,26-01-2024 15:46:48,0.552s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), ""MDL 1"")",Chrome 120.0.0.0,,,26-01-2024 15:46:48,26-01-2024 15:46:49,1.075s,PASSED
+"sendKeys(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,26-01-2024 15:46:49,26-01-2024 15:46:50,1.008s,PASSED
+"click(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/Page_Master Quiz  Elearning CMS/span_-- Choose Chapter --""))",Chrome 120.0.0.0,,,26-01-2024 15:46:50,26-01-2024 15:46:51,0.500s,PASSED
+"setText(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), ""CPT 1"")",Chrome 120.0.0.0,,,26-01-2024 15:46:51,26-01-2024 15:46:52,1.073s,PASSED
+"sendKeys(findTestObject(""E-Learning/Page_Master Quiz  Elearning CMS/input_Save_select2-search__field""), Keys.chord(ENTER))",Chrome 120.0.0.0,,,26-01-2024 15:46:52,26-01-2024 15:46:53,1.102s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Question_desc""), ""Pengujian API Dengan Katalon
+Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian API.
+
+Anda akan mempelajari cara menggunakan solusi kode rendah Katalon untuk membuat permintaan API dengan cepat dan menggabungkannya ke dalam kasus pengujian otomatis untuk pengujian REST dan SOAP API. Kemudian, Anda akan terus mempelajari cara menerapkan teknik yang lebih"")",Chrome 120.0.0.0,,,26-01-2024 15:46:53,26-01-2024 15:46:54,1.228s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option A_optA""), ""katalonc -noSplash -runMode=console -projectPath=""C:\Users\0767\Katalon Studio\ProjectIGLO\ProjectIGLO.prj"" -maxFailedTests=3 -retry=0 -testSuitePath=""Test Suites/Test Suites/Appointment"" -browserType=""Chrome"" -executionProfile=""default"" -apiKey=""30a646a5-6c14-41df-9a8e-71bbd381ccf6"" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true"")",Chrome 120.0.0.0,,,26-01-2024 15:46:54,26-01-2024 15:46:55,1.047s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option B_optB""), ""Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda."")",Chrome 120.0.0.0,,,26-01-2024 15:46:55,26-01-2024 15:46:56,0.717s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option D_optD""), ""Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform."")",Chrome 120.0.0.0,,,26-01-2024 15:46:56,26-01-2024 15:46:57,0.975s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_A_correctAnswer""))",Chrome 120.0.0.0,,,26-01-2024 15:46:57,26-01-2024 15:46:57,0.469s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/input_Please choose one_isActive""))",Chrome 120.0.0.0,,,26-01-2024 15:46:57,26-01-2024 15:46:58,0.377s,PASSED
+"setText(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/textarea_Option C_optC""), ""Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web."")",Chrome 120.0.0.0,,,26-01-2024 15:46:58,26-01-2024 15:46:59,0.750s,PASSED
+"takeScreenshotAsCheckpoint(""Quiz"")",Chrome 120.0.0.0,,,26-01-2024 15:46:59,26-01-2024 15:46:59,0.496s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Master Quiz  Elearning CMS/button_Save""))",Chrome 120.0.0.0,,,26-01-2024 15:46:59,26-01-2024 15:47:00,0.458s,PASSED
+"takeScreenshotAsCheckpoint(""Quiz"")",Chrome 120.0.0.0,,,26-01-2024 15:47:00,26-01-2024 15:47:01,1.011s,PASSED
+refresh(),Chrome 120.0.0.0,,,26-01-2024 15:47:01,26-01-2024 15:47:01,0.292s,PASSED
+,,,,,,,
+Test Cases/E-Learning/Logout,Chrome 120.0.0.0,,,26-01-2024 15:47:01,26-01-2024 15:47:05,3.860s,PASSED
+"click(findTestObject(""Object Repository/E-Learning/Page_Home  Elearning CMS/button_Log out""))",Chrome 120.0.0.0,,,26-01-2024 15:47:01,26-01-2024 15:47:04,3.129s,PASSED
+"takeScreenshotAsCheckpoint(""Logout"")",Chrome 120.0.0.0,,,26-01-2024 15:47:04,26-01-2024 15:47:05,0.643s,PASSED

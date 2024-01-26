@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Phone Number_fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>7671e726-e88d-42ac-8663-cc12a58ec21f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnDetail']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9204ef2f-dd9e-47a7-8bfc-397fdb2c28ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye</value>
+      <webElementGuid>95f3b359-3281-4fdb-818b-3236acfab3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-elearning-table&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/button[@id=&quot;btnDetail&quot;]/i[@class=&quot;fa fa-eye&quot;]</value>
+      <webElementGuid>60db02d3-3559-4f46-baf9-3f64ee1d4002</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnDetail']/i</value>
+      <webElementGuid>1c906d39-2824-430d-9d52-db098e0f3549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>c189900a-b608-4655-b006-35de1c8c63fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

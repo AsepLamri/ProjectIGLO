@@ -17,5 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('My Sun Life/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/My Sun Life/Page_Beranda  My Sun Life/span_Bayar Premi'))
 

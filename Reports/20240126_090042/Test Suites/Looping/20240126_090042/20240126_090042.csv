@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Looping,,,,26-01-2024 09:00:56,26-01-2024 09:01:03,6.573s,FAILED
+,,,,,,,
+Test Cases/Cura Healthcare Center/TC_5 Looping,,,,26-01-2024 09:01:02,26-01-2024 09:01:03,0.661s,FAILED
+"callTestCase(findTestCase(""Cura Healthcare Center/Login""), [:], STOP_ON_FAILURE)",,,,26-01-2024 09:01:02,26-01-2024 09:01:03,0.528s,FAILED

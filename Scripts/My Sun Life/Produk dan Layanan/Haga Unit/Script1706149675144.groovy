@@ -19,19 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('My Sun Life/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/a_Harga Unit'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/button_Download Kinerja Investasi'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/input_Periode_periode'))
 
-WebUI.selectOptionByValue(findTestObject('null'), 
+WebUI.selectOptionByValue(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/select_Tahun20232022202120202019201820172016'), 
     '2023', true)
 
-WebUI.selectOptionByValue(findTestObject('null'), 
+WebUI.selectOptionByValue(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/select_BulanJanuariFebruariMaretAprilMeiJun_f02c42'), 
     '11', true)
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/button_Download'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('My Sun Life/Page_Harga Unit  My Sun Life/button_Tutup'))
 
